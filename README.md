@@ -20,13 +20,14 @@
 [Android onSaveInstanceState 实时保存数据](https://blog.csdn.net/adminlxb89/article/details/81365082)  
 [Android DecorView浅析](https://www.cnblogs.com/ldq2016/p/6671501.html)  
 ## 性能
-
+[Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
+[Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 ## 规范
 [Android 静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
 ## 测试 
 [Android 程序员必须掌握的三种自动化测试方法](https://www.cnblogs.com/punkisnotdead/p/5103323.html)  
 ## 其它
-[如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)
+[如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
 
 # Java
 ## 基础
@@ -41,6 +42,8 @@
 ## JVM
 [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  
 [搞定JVM垃圾回收就是这么简单](https://blog.csdn.net/qq_34337272/article/details/82177383)  
+[Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
+[GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
 
 ## 线程
 

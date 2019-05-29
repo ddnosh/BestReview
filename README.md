@@ -19,13 +19,18 @@
 ## 基础
 [Android onSaveInstanceState 实时保存数据](https://blog.csdn.net/adminlxb89/article/details/81365082)  
 [Android DecorView浅析](https://www.cnblogs.com/ldq2016/p/6671501.html)  
+[Android中两种序列化方式的比较Serializable和Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
+
 ## 性能
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
 [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
+
 ## 规范
 [Android 静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
+
 ## 测试 
 [Android 程序员必须掌握的三种自动化测试方法](https://www.cnblogs.com/punkisnotdead/p/5103323.html)  
+
 ## 其它
 [如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
 
@@ -38,6 +43,8 @@
 [SparseArray与HashMap相比优缺点](https://blog.csdn.net/qwer123qwerz/article/details/79345524)  
 [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html)  
 [java集合（list,set,map)](https://www.cnblogs.com/yangliguo/p/7476788.html)  
+[java中实现多态的机制是什么？](https://blog.csdn.net/bornlili/article/details/55213563)  
+
 
 ## JVM
 [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  

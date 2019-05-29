@@ -53,7 +53,7 @@
 [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
 
 ## 线程
-
+[有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
 
 # 算法
 ## 查找

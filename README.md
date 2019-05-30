@@ -4,6 +4,7 @@
 - [Android](#Android)
   - [基础](#基础)
   - [性能](#性能)
+  - [架构](#架构)
   - [测试](#测试)
   - [规范](#规范)
   - [其它](#其它)
@@ -23,10 +24,15 @@
 [Android中两种序列化方式的比较Serializable和Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
 [Jvm、Dalvik和Art的区别](https://www.jianshu.com/p/59d98244fb52)  
 [compileSdkVersion，targetSdkVersion和minSdkVersion三者的关系](https://blog.csdn.net/u012345683/article/details/81286989)  
+[ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213) . 
+[自定义View，有这一篇就够了](https://www.jianshu.com/p/c84693096e41)
 
 ## 性能
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
 [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
+
+## 架构
+[App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)
 
 ## 规范
 [Android 静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  

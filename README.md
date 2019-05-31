@@ -80,6 +80,7 @@
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)
+- [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://blog.itpub.net/31561269/viewspace-2222522/)  
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  

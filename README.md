@@ -38,6 +38,7 @@
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 - [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)
 - [用ConstraintLayout来优化Android的XML布局的层级](http://tech.dianwoda.com/2017/12/15/yong-constraintlayoutlai-you-hua-androidde-xmlbu-ju-de-ceng-ji/)  
+- [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 
 
 ## 架构
@@ -71,12 +72,14 @@
 - [final修饰符有什么特点](https://www.cnblogs.com/huiyuantang/p/5422317.html)  
 - [成员变量存在堆中，局部变量存在栈中的理解](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
 - [String str = new String("abc")究竟创建了几个对象？](https://blog.csdn.net/qq_36470686/article/details/83444483)  
+- [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
 
 ## 进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
+- [为什么StringBuilder的效率要比String高?](https://blog.csdn.net/qq_31209193/article/details/81092958)  
 
 ## JVM
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  

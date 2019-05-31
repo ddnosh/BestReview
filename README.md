@@ -3,6 +3,7 @@
 
 - [Android](#Android)
   - [基础](#Android基础)
+  - [进阶](#Android进阶)
   - [性能](#Android性能)
   - [架构](#架构)
   - [测试](#测试)
@@ -12,7 +13,7 @@
 
 - Java
   - [基础](#Java基础)
-  - [进阶](#进阶)  
+  - [进阶](#Java进阶)  
   - [性能](#Java性能)  
 - 算法
   - [查找](#查找)
@@ -32,6 +33,9 @@
 - [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.cnblogs.com/ldq2016/p/9651260.html)  
 - [简化Parcelable的使用](https://blog.csdn.net/u013265344/article/details/87979948)  
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
+
+## Android进阶
+
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -74,7 +78,7 @@
 - [String str = new String("abc")究竟创建了几个对象？](https://blog.csdn.net/qq_36470686/article/details/83444483)  
 - [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
 
-## 进阶
+## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)
 
 ## Java性能
@@ -95,4 +99,4 @@
 - [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
 
 ## 排序
-- [算法总结] 十大排序算法](https://www.colabug.com/4194710.html)  
+- [十大排序算法](https://www.colabug.com/4194710.html)  

@@ -33,6 +33,8 @@
 - [简化Parcelable的使用](https://blog.csdn.net/u013265344/article/details/87979948)  
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
 - [Android进程间通信的几种方式](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
+- [通用网络请求实现之HttpURLConnection和OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
+- [两个 Activity 之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
 
 ## Android进阶
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  

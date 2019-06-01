@@ -26,21 +26,24 @@
 - [Android中两种序列化方式的比较Serializable和Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
 - [Jvm、Dalvik和Art的区别](https://www.jianshu.com/p/59d98244fb52)  
 - [compileSdkVersion，targetSdkVersion和minSdkVersion三者的关系](https://blog.csdn.net/u012345683/article/details/81286989)  
-- [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
 - [自定义View，有这一篇就够了](https://www.jianshu.com/p/c84693096e41)  
 - [Activity-Window-View三者的关系](https://blog.csdn.net/qq_21399461/article/details/79836806)
 - [深入理解Message, MessageQueue, Handler和Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
 - [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.cnblogs.com/ldq2016/p/9651260.html)  
 - [简化Parcelable的使用](https://blog.csdn.net/u013265344/article/details/87979948)  
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
+- [Android进程间通信的几种方式](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
 
 ## Android进阶
-
+- [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
+- [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
+- [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
+- [Android热更新实现原理浅析](https://www.jianshu.com/p/8dcf750acdfe)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
-- [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)
+- [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)  
 - [用ConstraintLayout来优化Android的XML布局的层级](http://tech.dianwoda.com/2017/12/15/yong-constraintlayoutlai-you-hua-androidde-xmlbu-ju-de-ceng-ji/)  
 - [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 
@@ -77,10 +80,12 @@
 - [成员变量存在堆中，局部变量存在栈中的理解](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
 - [String str = new String("abc")究竟创建了几个对象？](https://blog.csdn.net/qq_36470686/article/details/83444483)  
 - [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
+- [阻塞队列与非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)
 - [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://blog.itpub.net/31561269/viewspace-2222522/)  
+- [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm)  
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  

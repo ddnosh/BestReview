@@ -39,6 +39,7 @@
 - [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
 - [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [Android热更新实现原理浅析](https://www.jianshu.com/p/8dcf750acdfe)  
+- [【Android】APT](https://www.jianshu.com/p/7af58e8e3e18)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -83,9 +84,11 @@
 - [阻塞队列与非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
 
 ## Java进阶
-- [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)
+- [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
 - [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://blog.itpub.net/31561269/viewspace-2222522/)  
 - [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm)  
+- [从多线程的三个特性理解多线程开发](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
+- [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  

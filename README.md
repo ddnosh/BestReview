@@ -8,16 +8,24 @@
   - [架构](#架构)
   - [测试](#测试)
   - [规范](#规范)
-  - [其它](#其它)
   - [开源框架](#开源框架)
-
+  - [其它](#其它)
+  
 - [Java](#Java)
   - [基础](#Java基础)
   - [进阶](#Java进阶)  
   - [性能](#Java性能)  
+  
 - [算法](#算法)
   - [查找](#查找)
   - [排序](#排序)
+  
+- [工具](#工具)  
+  
+- [产品](#产品)
+
+-[服务器](#服务器)
+
 
 # Android
 ## Android基础
@@ -63,15 +71,15 @@
 ## 测试 
 - [Android 程序员必须掌握的三种自动化测试方法](https://www.cnblogs.com/punkisnotdead/p/5103323.html)  
 
-## 其它
-- [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
-
-
 ## 开源框架
 - [EventBus原理详解](https://blog.csdn.net/michael_yt/article/details/52014022)  
 - [LiveData是如何做到在合适的时机刷新的](https://blog.csdn.net/Kongou/article/details/82798451)  
 - [如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
 - [RxJava基本原理解析(一)](https://www.jianshu.com/p/695f780436dd)  
+- [网络库Retrofit2原理简析](https://blog.csdn.net/hesong1120/article/details/78775145)  
+
+## 其它
+- [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
 
 # Java
 ## Java基础

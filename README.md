@@ -85,6 +85,8 @@
 - [String str = new String("abc")究竟创建了几个对象？](https://blog.csdn.net/qq_36470686/article/details/83444483)  
 - [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
 - [阻塞队列与非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
+- [String类的equals()与“==”的区别](https://blog.csdn.net/sunshinegirl168660/article/details/81333562)  
+- [String类中的equals方法总结](https://blog.csdn.net/qq_25827845/article/details/53868815)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  

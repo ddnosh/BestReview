@@ -35,6 +35,7 @@
 - [Android进程间通信的几种方式](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
 - [通用网络请求实现之HttpURLConnection和OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
 - [两个 Activity 之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
+- [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
 
 ## Android进阶
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
@@ -42,6 +43,7 @@
 - [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [Android热更新实现原理浅析](https://www.jianshu.com/p/8dcf750acdfe)  
 - [【Android】APT](https://www.jianshu.com/p/7af58e8e3e18)  
+- [Android中图片的三级缓存详解](https://blog.csdn.net/languobeibei/article/details/73176506)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -69,6 +71,7 @@
 - [EventBus原理详解](https://blog.csdn.net/michael_yt/article/details/52014022)  
 - [LiveData是如何做到在合适的时机刷新的](https://blog.csdn.net/Kongou/article/details/82798451)  
 - [如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
+- [RxJava基本原理解析(一)](https://www.jianshu.com/p/695f780436dd)  
 
 # Java
 ## Java基础

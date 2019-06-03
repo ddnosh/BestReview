@@ -60,6 +60,7 @@
 - [用ConstraintLayout来优化Android的XML布局的层级](http://tech.dianwoda.com/2017/12/15/yong-constraintlayoutlai-you-hua-androidde-xmlbu-ju-de-ceng-ji/)  
 - [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  
+- [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
 
 
 ## 架构

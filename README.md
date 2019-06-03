@@ -99,6 +99,7 @@
 - [阻塞队列与非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
 - [String类的equals()与“==”的区别](https://blog.csdn.net/sunshinegirl168660/article/details/81333562)  
 - [String类中的equals方法总结](https://blog.csdn.net/qq_25827845/article/details/53868815)  
+- [HashMap、Hashtable和ConcurrentHashMap底层实现原理和线程安全问题](https://blog.csdn.net/caisongcheng_good/article/details/79489852)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  

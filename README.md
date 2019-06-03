@@ -24,7 +24,7 @@
   
 - [产品](#产品)
 
--[服务器](#服务器)
+- [服务器](#服务器)
 
 
 # Android
@@ -106,6 +106,7 @@
 - [从多线程的三个特性理解多线程开发](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
 - [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 - [并发编程之ThreadLocal、Volatile、synchronized、Atomic关键字扫盲](https://blog.csdn.net/u010687392/article/details/50549236)  
+- [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
@@ -116,9 +117,6 @@
 - [搞定JVM垃圾回收就是这么简单](https://blog.csdn.net/qq_34337272/article/details/82177383)  
 - [Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
 - [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
-
-## 线程
-- [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
 
 # 算法
 ## 查找

@@ -109,6 +109,7 @@
 - [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 - [并发编程之ThreadLocal、Volatile、synchronized、Atomic关键字扫盲](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
+- [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620)  
 
 ## Java性能
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  

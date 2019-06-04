@@ -17,6 +17,8 @@
   
 - [Kotlin](#Kotlin)
   
+- [计算机系统](#计算机系统)
+
 - [算法](#算法)
   - [查找](#查找)
   - [排序](#排序)
@@ -127,6 +129,10 @@
 - [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
 
 # Kotlin
+- [Kotlin 的优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
+
+# 计算机系统
+- [编程范式：命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
 
 # 算法
 ## 查找

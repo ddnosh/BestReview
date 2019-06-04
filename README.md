@@ -52,6 +52,7 @@
 - [【Android】APT](https://www.jianshu.com/p/7af58e8e3e18)  
 - [AOP如何实现及其原理](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
 - [插件化理解与实现 —— 加载 Activity「类加载篇」](https://fashare2015.github.io/2018/01/24/dynamic-load-learning-load-activity/)  
+- [ARouter原理剖析和自己实现EasyRouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  

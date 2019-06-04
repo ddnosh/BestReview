@@ -9,7 +9,6 @@
   - [测试](#测试)
   - [规范](#规范)
   - [开源框架](#开源框架)
-  - [其它](#其它)
   
 - [Java](#Java)
   - [基础](#Java基础)
@@ -25,7 +24,6 @@
 - [产品](#产品)
 
 - [服务器](#服务器)
-
 
 # Android
 ## Android基础
@@ -50,8 +48,10 @@
 - [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
 - [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [Android热更新实现原理浅析](https://www.jianshu.com/p/8dcf750acdfe)  
-- [【Android】APT](https://www.jianshu.com/p/7af58e8e3e18)  
 - [Android中图片的三级缓存详解](https://blog.csdn.net/languobeibei/article/details/73176506)  
+- [【Android】APT](https://www.jianshu.com/p/7af58e8e3e18)  
+- [AOP如何实现及其原理](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
+- [插件化理解与实现 —— 加载 Activity「类加载篇」](https://fashare2015.github.io/2018/01/24/dynamic-load-learning-load-activity/)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -62,9 +62,9 @@
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
 
-
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  
+- [REST、RESTful 与 RESTful API](https://blog.csdn.net/xiaojin21cen/article/details/78696943)  
 
 ## 规范
 - [Android 静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
@@ -78,9 +78,6 @@
 - [如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
 - [RxJava基本原理解析(一)](https://www.jianshu.com/p/695f780436dd)  
 - [网络库Retrofit2原理简析](https://blog.csdn.net/hesong1120/article/details/78775145)  
-
-## 其它
-- [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
 
 # Java
 ## Java基础
@@ -127,3 +124,6 @@
 
 ## 排序
 - [十大排序算法](https://www.colabug.com/4194710.html)  
+
+# 工具
+- [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  

@@ -42,6 +42,7 @@
 - [通用网络请求实现之HttpURLConnection和OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
 - [两个 Activity 之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
 - [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
+- [Handler、Thread、HandlerThread三者的区别](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
 
 ## Android进阶
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
@@ -53,6 +54,7 @@
 - [AOP如何实现及其原理](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
 - [插件化理解与实现 —— 加载 Activity「类加载篇」](https://fashare2015.github.io/2018/01/24/dynamic-load-learning-load-activity/)  
 - [ARouter原理剖析和自己实现EasyRouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
+- [APK安装流程概述](https://www.cnblogs.com/neo-java/p/7117482.html)  
 
 ## Android性能
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -62,6 +64,7 @@
 - [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
+- [Android布局优化：include 、merge、ViewStub的详细总结](https://www.cnblogs.com/leipDao/p/8981687.html)
 
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  
@@ -99,6 +102,7 @@
 - [String类中的equals方法总结](https://blog.csdn.net/qq_25827845/article/details/53868815)  
 - [HashMap、Hashtable和ConcurrentHashMap底层实现原理和线程安全问题](https://blog.csdn.net/caisongcheng_good/article/details/79489852)  
 - [Java自定义类加载器与双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)  
+- [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  

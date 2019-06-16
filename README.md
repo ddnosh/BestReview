@@ -4,7 +4,7 @@
 - [Android](#Android)
   - [基础](#Android基础)
   - [进阶](#Android进阶)
-  - [性能](#Android性能)
+  - [优化](#Android优化)
   - [架构](#架构)
   - [测试](#测试)
   - [规范](#规范)
@@ -47,6 +47,7 @@
 - [两个 Activity 之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
 - [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
 - [Handler、Thread、HandlerThread三者的区别](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
+- [Android ListView与RecyclerView对比浅析](https://blog.csdn.net/import_sadaharu/article/details/81323801)  
 
 ## Android进阶
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
@@ -59,8 +60,10 @@
 - [插件化理解与实现 —— 加载 Activity「类加载篇」](https://fashare2015.github.io/2018/01/24/dynamic-load-learning-load-activity/)  
 - [ARouter原理剖析和自己实现EasyRouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
 - [APK安装流程概述](https://www.cnblogs.com/neo-java/p/7117482.html)  
+- [一个APP从启动到主页面显示经历了哪些过程？](https://www.jianshu.com/p/a72c5ccbd150)  
+- [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 
-## Android性能
+## Android性优化
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 - [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)  
@@ -68,7 +71,8 @@
 - [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
-- [Android布局优化：include 、merge、ViewStub的详细总结](https://www.cnblogs.com/leipDao/p/8981687.html)
+- [Android布局优化：include 、merge、ViewStub的详细总结](https://www.cnblogs.com/leipDao/p/8981687.html)  
+- [Android图片优化指南](https://segmentfault.com/a/1190000015723665)  
 
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  
@@ -108,6 +112,7 @@
 - [Java自定义类加载器与双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)  
 - [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 - [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
+- [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
@@ -134,6 +139,8 @@
 
 # 计算机系统
 - [编程范式：命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
+- [HTTP与HTTPS的区别](https://www.cnblogs.com/wqhwe/p/5407468.html)  
+
 
 # 算法
 ## 查找

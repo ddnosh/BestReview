@@ -13,7 +13,7 @@
 - [Java](#Java)
   - [基础](#Java基础)
   - [进阶](#Java进阶)  
-  - [性能](#Java性能)  
+  - [优化](#Java优化)  
   
 - [Kotlin](#Kotlin)
   
@@ -63,7 +63,7 @@
 - [一个APP从启动到主页面显示经历了哪些过程？](https://www.jianshu.com/p/a72c5ccbd150)  
 - [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 
-## Android性优化
+## Android优化
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 - [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)  
@@ -124,7 +124,7 @@
 - [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
 - [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620)  
 
-## Java性能
+## Java优化
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
 - [为什么StringBuilder的效率要比String高?](https://blog.csdn.net/qq_31209193/article/details/81092958)  
 

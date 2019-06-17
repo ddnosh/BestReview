@@ -144,6 +144,7 @@
 
 # 算法
 ## 查找
+- [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
 - [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
 
 ## 排序

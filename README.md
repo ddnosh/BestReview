@@ -62,6 +62,7 @@
 - [APK安装流程概述](https://www.cnblogs.com/neo-java/p/7117482.html)  
 - [一个APP从启动到主页面显示经历了哪些过程？](https://www.jianshu.com/p/a72c5ccbd150)  
 - [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
+- [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 
 ## Android优化
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
@@ -73,6 +74,8 @@
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [Android布局优化：include 、merge、ViewStub的详细总结](https://www.cnblogs.com/leipDao/p/8981687.html)  
 - [Android图片优化指南](https://segmentfault.com/a/1190000015723665)  
+- [Android APP终极瘦身指南](http://jayfeng.com/2016/03/01/Android-APP%E7%BB%88%E6%9E%81%E7%98%A6%E8%BA%AB%E6%8C%87%E5%8D%97/)  
+- [Android中的.apk之zipalign优化](https://www.jianshu.com/p/c5eafe6b0b5e)
 
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  
@@ -90,6 +93,8 @@
 - [如何绑定页面生命周期（一）－Glide实现](https://www.jianshu.com/p/cdebe33df7a0)  
 - [RxJava基本原理解析(一)](https://www.jianshu.com/p/695f780436dd)  
 - [网络库Retrofit2原理简析](https://blog.csdn.net/hesong1120/article/details/78775145)  
+- [LruCache 实现原理分析](https://blog.csdn.net/u012943767/article/details/51897259)  
+- [OkHttp 源码解析](https://www.jianshu.com/p/39a7c97d2004)  
 
 # Java
 ## Java基础
@@ -136,19 +141,22 @@
 
 # Kotlin
 - [Kotlin 的优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
+- [写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)  
 
 # 计算机系统
 - [编程范式：命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
 - [HTTP与HTTPS的区别](https://www.cnblogs.com/wqhwe/p/5407468.html)  
-
+- [HTTP、TCP、UDP，Socket，HTTPS（史上最强理解，没有之一）](https://blog.csdn.net/WHB20081815/article/details/67640804)
 
 # 算法
 ## 查找
 - [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
 - [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
+- [visualgo](Steven Halim 博士在 2011 年发布的一款可视化学习算法的工具，用于帮助其学生更好地理解数据结构和算法，可以让学生按自己的步骤来学习。)  
 
 ## 排序
 - [十大排序算法](https://www.colabug.com/4194710.html)  
 
 # 工具
 - [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
+- [Android开发规范：Git版本管理规范](https://blog.csdn.net/ddnosh/article/details/78996628)  

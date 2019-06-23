@@ -152,7 +152,7 @@
 ## 查找
 - [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
 - [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
-- [visualgo](Steven Halim 博士在 2011 年发布的一款可视化学习算法的工具，用于帮助其学生更好地理解数据结构和算法，可以让学生按自己的步骤来学习。)  
+- [visualgo](https://visualgo.net/en)  
 
 ## 排序
 - [十大排序算法](https://www.colabug.com/4194710.html)  

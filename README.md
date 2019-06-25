@@ -118,6 +118,7 @@
 - [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 - [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
 - [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
+- [new instance和new有什么区别](https://blog.csdn.net/qq_21071965/article/details/55666838)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
@@ -138,6 +139,7 @@
 - [搞定JVM垃圾回收就是这么简单](https://blog.csdn.net/qq_34337272/article/details/82177383)  
 - [Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
 - [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
+- [Javassist动态编程](https://nickid.cn/2017/02/Javassist%E5%8A%A8%E6%80%81%E7%BC%96%E7%A8%8B/)  
 
 # Kotlin
 - [Kotlin 的优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  

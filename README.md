@@ -24,6 +24,9 @@
   - [基础](#Java基础)
   - [进阶](#Java进阶)  
   - [优化](#Java优化)  
+  - [数据结构](#Java数据结构)  
+  - [线程、多线程、线程池、并发](#Java线程、多线程、线程池、并发)
+  - [JVM](#JVM)  
   
 - [Kotlin](#Kotlin)
   
@@ -58,6 +61,7 @@
 - [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
 - [Handler、Thread、HandlerThread三者的区别](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
 - [Android ListView与RecyclerView对比浅析](https://blog.csdn.net/import_sadaharu/article/details/81323801)  
+- [SurfaceView和普通view的区别及简单使用](https://blog.csdn.net/u010126792/article/details/86249399)  
 
 ## Android进阶
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
@@ -112,9 +116,6 @@
 - [Java之动态编译，静态编译简单理解和实例](https://www.jianshu.com/p/781987c1db8a)  
 - [浅谈Java中的hashcode方法](https://www.cnblogs.com/dolphin0520/p/3681042.html)  
 - [Object类有哪些方法？各有什么作用？](https://blog.csdn.net/qq_30264689/article/details/81903031)  
-- [SparseArray与HashMap相比优缺点](https://blog.csdn.net/qwer123qwerz/article/details/79345524)  
-- [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html)  
-- [java集合（list,set,map)](https://www.cnblogs.com/yangliguo/p/7476788.html)  
 - [java中实现多态的机制是什么？](https://blog.csdn.net/bornlili/article/details/55213563)  
 - [final修饰符有什么特点](https://www.cnblogs.com/huiyuantang/p/5422317.html)  
 - [成员变量存在堆中，局部变量存在栈中的理解](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
@@ -122,27 +123,37 @@
 - [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
 - [阻塞队列与非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
 - [String类的equals()与“==”的区别](https://blog.csdn.net/sunshinegirl168660/article/details/81333562)  
-- [String类中的equals方法总结](https://blog.csdn.net/qq_25827845/article/details/53868815)  
-- [HashMap、Hashtable和ConcurrentHashMap底层实现原理和线程安全问题](https://blog.csdn.net/caisongcheng_good/article/details/79489852)  
+- [String类中的equals方法总结](https://blog.csdn.net/qq_25827845/article/details/53868815)   
 - [Java自定义类加载器与双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)  
 - [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
-- [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
-- [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
 - [new instance和new有什么区别](https://blog.csdn.net/qq_21071965/article/details/55666838)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
 - [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://blog.itpub.net/31561269/viewspace-2222522/)  
-- [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm)  
-- [从多线程的三个特性理解多线程开发](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
-- [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 - [并发编程之ThreadLocal、Volatile、synchronized、Atomic关键字扫盲](https://blog.csdn.net/u010687392/article/details/50549236)  
-- [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
-- [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620)  
+- [深入分析 Java 中的中文编码问题](https://blog.csdn.net/anita9999/article/details/79642152)  
+- [java泛型的作用及实现原理](https://blog.csdn.net/shinecjj/article/details/52075499)  
 
 ## Java优化
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
 - [为什么StringBuilder的效率要比String高?](https://blog.csdn.net/qq_31209193/article/details/81092958)  
+
+## Java数据结构
+- [java集合（list,set,map)](https://www.cnblogs.com/yangliguo/p/7476788.html)  
+- [SparseArray与HashMap相比优缺点](https://blog.csdn.net/qwer123qwerz/article/details/79345524)  
+- [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html)  
+- [HashMap、Hashtable和ConcurrentHashMap底层实现原理和线程安全问题](https://blog.csdn.net/caisongcheng_good/article/details/79489852)
+- [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
+- [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
+
+## Java线程、多线程、线程池、并发
+- [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm) 
+- [从多线程的三个特性理解多线程开发](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
+- [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
+- [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
+- [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620) 
+- [多线程读写文件的安全](https://blog.csdn.net/qq_34028539/article/details/80563649)  
 
 ## JVM
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  
@@ -165,6 +176,7 @@
 - [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
 - [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
 - [visualgo](https://visualgo.net/en)  
+- [二叉树的深度优先和广度优先遍历（超详细步骤）（java实现）](https://blog.csdn.net/XTAOTWO/article/details/83625586)  
 
 ## 排序
 - [十大排序算法](https://www.colabug.com/4194710.html)  

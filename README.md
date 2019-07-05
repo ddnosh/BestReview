@@ -131,6 +131,7 @@
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
 - [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://blog.itpub.net/31561269/viewspace-2222522/)  
+- [让你彻底理解Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
 - [并发编程之ThreadLocal、Volatile、synchronized、Atomic关键字扫盲](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [深入分析 Java 中的中文编码问题](https://blog.csdn.net/anita9999/article/details/79642152)  
 - [java泛型的作用及实现原理](https://blog.csdn.net/shinecjj/article/details/52075499)  

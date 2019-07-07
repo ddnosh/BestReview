@@ -147,6 +147,7 @@
 - [HashMap、Hashtable和ConcurrentHashMap底层实现原理和线程安全问题](https://blog.csdn.net/caisongcheng_good/article/details/79489852)
 - [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
 - [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
+- [单链表反转的两种实现（Java）](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
 
 ## Java线程、多线程、线程池、并发
 - [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm) 
@@ -181,7 +182,9 @@
 
 ## 排序
 - [十大排序算法](https://www.colabug.com/4194710.html)  
+- [排序算法的时间复杂度、空间复杂度、稳定性比较](https://www.cnblogs.com/jkxsz2333/p/9513901.html)  
 
 # 工具
 - [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
 - [Android开发规范：Git版本管理规范](https://blog.csdn.net/ddnosh/article/details/78996628)  
+- [浅谈easy-mock 最好的备胎没有之一](https://blog.csdn.net/weixin_43254766/article/details/83758660)  

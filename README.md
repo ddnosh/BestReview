@@ -157,6 +157,7 @@
 - [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
 - [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620) 
 - [多线程读写文件的安全](https://blog.csdn.net/qq_34028539/article/details/80563649)  
+- [Java Runnable与Callable区别](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
 
 ## JVM
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  

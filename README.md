@@ -136,6 +136,7 @@
 - [并发编程之ThreadLocal、Volatile、synchronized、Atomic关键字扫盲](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [深入分析 Java 中的中文编码问题](https://blog.csdn.net/anita9999/article/details/79642152)  
 - [java泛型的作用及实现原理](https://blog.csdn.net/shinecjj/article/details/52075499)  
+- [总算有人把动态代理、CGlib、AOP都说清楚了！](https://mp.weixin.qq.com/s?__biz=MzU3MDc3OTI1NA==&mid=2247484434&idx=1&sn=fcf722fc2b3503a630ebd46efd182107&chksm=fceb770bcb9cfe1d10ecaa47c9f349c9b9c87fc2a9e703352d7548d63d6f2f320a409b59f2fc&mpshare=1&scene=1&srcid=&key=ec8d854d0e9af0d3f99aa35465ce4ce01cda5169bde4697c5a903f37f8d3ace61a90a83f1852301f02ea8a8461082cc6aba1285e2059f2857b8da8310bedaa0b7ff684492bcfcaffa07d654e341c258c&ascene=1&uin=Mjc4NTgyNjQw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=1%2FK0RtFn7h16kVaCrkkuyvto8AgrLDbt5Y4QPJB7YG1fGCfgpKUkXVu9k3LIio0I)  
 
 ## Java优化
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  

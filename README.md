@@ -81,7 +81,7 @@
 ## Android优化
 - [Android界面性能调优手册](https://mp.weixin.qq.com/s/3IEvT54xBY4S_cPu35h1fQ?)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
-- [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)  
+- [Android性能优化之优化layout的层级](https://www.jianshu.com/p/7b61d635098d)  
 - [用ConstraintLayout来优化Android的XML布局的层级](http://tech.dianwoda.com/2017/12/15/yong-constraintlayoutlai-you-hua-androidde-xmlbu-ju-de-ceng-ji/)  
 - [设计师必须注意的Android开发者选项之GPU过度绘制](https://www.jianshu.com/p/ab0cf2697236)  
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  

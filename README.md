@@ -79,7 +79,7 @@
 - [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 
 ## Android优化
-- [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens)  
+- [Android界面性能调优手册](https://mp.weixin.qq.com/s/3IEvT54xBY4S_cPu35h1fQ?)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 - [Android性能优化之优化layout的层级](https://www.jianshu.com/p/920e1c9551aa)  
 - [用ConstraintLayout来优化Android的XML布局的层级](http://tech.dianwoda.com/2017/12/15/yong-constraintlayoutlai-you-hua-androidde-xmlbu-ju-de-ceng-ji/)  

@@ -128,6 +128,7 @@
 - [Java自定义类加载器与双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)  
 - [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 - [new instance和new有什么区别](https://blog.csdn.net/qq_21071965/article/details/55666838)  
+- [匿名内部类的使用](https://www.cnblogs.com/longesang/p/11243482.html)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  

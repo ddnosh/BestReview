@@ -119,6 +119,7 @@
 - [Object类有哪些方法？各有什么作用？](https://blog.csdn.net/qq_30264689/article/details/81903031)  
 - [java中实现多态的机制是什么？](https://blog.csdn.net/bornlili/article/details/55213563)  
 - [final修饰符有什么特点](https://www.cnblogs.com/huiyuantang/p/5422317.html)  
+- [Java中的static关键字解析](https://www.cnblogs.com/dolphin0520/p/3799052.html)  
 - [成员变量存在堆中，局部变量存在栈中的理解](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
 - [String str = new String("abc")究竟创建了几个对象？](https://blog.csdn.net/qq_36470686/article/details/83444483)  
 - [JAVA中数组扩容的三种方式](https://blog.csdn.net/wt122694/article/details/81173128)  
@@ -129,6 +130,7 @@
 - [深入了解双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 - [new instance和new有什么区别](https://blog.csdn.net/qq_21071965/article/details/55666838)  
 - [匿名内部类的使用](https://www.cnblogs.com/longesang/p/11243482.html)  
+- [Exception和Error有什么区别](https://blog.csdn.net/weixin_42124070/article/details/80833629)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
@@ -151,6 +153,7 @@
 - [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
 - [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
 - [单链表反转的两种实现（Java）](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
+- [什么是深拷贝和浅拷贝以及如何实现深拷贝](https://www.cnblogs.com/xinyueBlog/p/6179096.html)  
 
 ## Java线程、多线程、线程池、并发
 - [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm) 
@@ -167,6 +170,7 @@
 - [Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
 - [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
 - [Javassist动态编程](https://nickid.cn/2017/02/Javassist%E5%8A%A8%E6%80%81%E7%BC%96%E7%A8%8B/)  
+- [java语言为什么可以跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
 
 # Kotlin
 - [Kotlin 的优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  

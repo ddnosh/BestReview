@@ -109,7 +109,9 @@
 - [网络库Retrofit2原理简析](https://blog.csdn.net/hesong1120/article/details/78775145)  
 - [LruCache 实现原理分析](https://blog.csdn.net/u012943767/article/details/51897259)  
 - [OkHttp 源码解析](https://www.jianshu.com/p/39a7c97d2004)  
-- [一篇文章让你搞懂ButterKnife使用和原理](https://www.jianshu.com/p/b82ef05f3e8a)  
+- [一篇文章让你搞懂ButterKnife使用和原理](https://www.jianshu.com/p/b82ef05f3e8a) 
+- [Glide 源码学习,了解 Glide 图片加载原理](https://www.jianshu.com/p/9d8aeaa5a329)
+- [greenDAO 3.2实现原理](https://www.jianshu.com/p/0d3cbe6278fb)
 
 # Java
 ## Java基础

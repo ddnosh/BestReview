@@ -99,7 +99,8 @@
 - [Android 静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
 
 ## 测试 
-- [Android 程序员必须掌握的三种自动化测试方法](https://www.cnblogs.com/punkisnotdead/p/5103323.html)  
+- [Android 程序员必须掌握的三种自动化测试方法](https://www.cnblogs.com/punkisnotdead/p/5103323.html) 
+- [Android 单元测试（junit、mockito、robolectric）](https://www.cnblogs.com/CharlesGrant/p/5765843.html)
 
 ## 开源框架
 - [EventBus原理详解](https://blog.csdn.net/michael_yt/article/details/52014022)  

@@ -157,6 +157,7 @@
 - [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)  
 - [单链表反转的两种实现（Java）](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
 - [什么是深拷贝和浅拷贝以及如何实现深拷贝](https://www.cnblogs.com/xinyueBlog/p/6179096.html)  
+- [WeakHashMap的弱键回收机制](https://blog.csdn.net/u014294681/article/details/86522487)  
 
 ## Java线程、多线程、线程池、并发
 - [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm) 

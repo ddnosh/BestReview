@@ -77,6 +77,7 @@
 - [一个APP从启动到主页面显示经历了哪些过程？](https://www.jianshu.com/p/a72c5ccbd150)  
 - [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 - [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
+- [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
 
 ## Android优化
 - [Android界面性能调优手册](https://mp.weixin.qq.com/s/3IEvT54xBY4S_cPu35h1fQ?)  

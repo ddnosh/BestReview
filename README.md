@@ -135,6 +135,7 @@
 - [new instance和new有什么区别](https://blog.csdn.net/qq_21071965/article/details/55666838)  
 - [匿名内部类的使用](https://www.cnblogs.com/longesang/p/11243482.html)  
 - [Exception和Error有什么区别](https://blog.csdn.net/weixin_42124070/article/details/80833629)  
+- [使用 final 关键字修饰一个变量时，是引用不能变，还是引用的对象不能变？](https://blog.csdn.net/u013781343/article/details/80548378)  
 
 ## Java进阶
 - [IOC,依赖倒置 (理解) Spring依赖注入的实现技术是：动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  

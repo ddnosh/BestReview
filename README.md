@@ -84,6 +84,7 @@
 - [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 - [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Android全埋点](https://www.jianshu.com/p/705a2f9f8e09)  
+- [Android组件化开发系列](https://blog.csdn.net/ddnosh/article/details/79075093)  
 
 ## Android优化
 - [android APP性能优化总结](https://www.jianshu.com/p/d71b51a0e29f)  

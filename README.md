@@ -80,6 +80,7 @@
 - [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
 
 ## Android优化
+- [Android内存优化](https://blog.csdn.net/wy1215672379/article/details/90030833)  
 - [Android界面性能调优手册](https://mp.weixin.qq.com/s/3IEvT54xBY4S_cPu35h1fQ?)  
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)  
 - [Android性能优化之优化layout的层级](https://www.jianshu.com/p/7b61d635098d)  

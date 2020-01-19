@@ -64,6 +64,7 @@
 - [SurfaceView和普通view的区别及简单使用](https://blog.csdn.net/u010126792/article/details/86249399)  
 
 ## Android进阶
+- [Android系统显示原理简介](https://www.jianshu.com/p/a978a6250f9e)  
 - [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
 - [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
 - [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  

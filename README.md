@@ -83,6 +83,7 @@
 - [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 - [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 - [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
+- [Android全埋点](https://www.jianshu.com/p/705a2f9f8e09)  
 
 ## Android优化
 - [android APP性能优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
@@ -184,6 +185,8 @@
 - [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620) 
 - [多线程读写文件的安全](https://blog.csdn.net/qq_34028539/article/details/80563649)  
 - [Java Runnable与Callable区别](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
+- [管程：并发编程的万能钥匙](https://blog.csdn.net/pizicai007/article/details/88723854)  
+- [Lock和Condition：隐藏在并发包中的管程](https://blog.csdn.net/cowbin2012/article/details/103443626)  
 
 ## JVM
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  

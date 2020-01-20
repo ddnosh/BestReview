@@ -203,6 +203,7 @@
 
 # 计算机系统
 - [编程范式：命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
+- [HTTP协议详解](https://www.jianshu.com/p/7c8b4576e4bb)  
 - [HTTP与HTTPS的区别](https://www.cnblogs.com/wqhwe/p/5407468.html)  
 - [HTTP、TCP、UDP，Socket，HTTPS（史上最强理解，没有之一）](https://blog.csdn.net/WHB20081815/article/details/67640804)
 

@@ -85,6 +85,7 @@
 - [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Android全埋点](https://www.jianshu.com/p/705a2f9f8e09)  
 - [Android组件化开发系列](https://blog.csdn.net/ddnosh/article/details/79075093)  
+- [网易云--手机QQ的换肤是怎么做到的](https://www.jianshu.com/p/2053e64e9fc1)  
 
 ## Android优化
 - [android APP性能优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
@@ -108,6 +109,7 @@
 - [Androud 如何有效减少重复代码](https://blog.csdn.net/wangzhongshun/article/details/78738217)  
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [Android图片优化指南](https://segmentfault.com/a/1190000015723665)  
+- [今日头条屏幕适配方案终极版正式发布!](https://www.jianshu.com/p/4aa23d69d481)  
 
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  
@@ -188,6 +190,7 @@
 - [Java Runnable与Callable区别](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
 - [管程：并发编程的万能钥匙](https://blog.csdn.net/pizicai007/article/details/88723854)  
 - [Lock和Condition：隐藏在并发包中的管程](https://blog.csdn.net/cowbin2012/article/details/103443626)  
+- [线程的同步控制synchronized和lock的对比和区别](https://blog.csdn.net/wu1226419614/article/details/73740899)  
 
 ## JVM
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  
@@ -218,7 +221,10 @@
 - [十大排序算法](https://www.colabug.com/4194710.html)  
 - [排序算法的时间复杂度、空间复杂度、稳定性比较](https://www.cnblogs.com/jkxsz2333/p/9513901.html)  
 
-# 工具
+## 工具
 - [软件开发中会用到的图](https://www.cnblogs.com/Zachary-Fan/p/developdiagram.html)  
 - [Android开发规范：Git版本管理规范](https://blog.csdn.net/ddnosh/article/details/78996628)  
 - [浅谈easy-mock 最好的备胎没有之一](https://blog.csdn.net/weixin_43254766/article/details/83758660)  
+
+## 加密
+- [浅谈对称加密与非对称加密](https://zhuanlan.zhihu.com/p/49494990)  

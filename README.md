@@ -203,6 +203,7 @@
 # Kotlin
 - [Kotlin 的优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
 - [写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)  
+- [从 Java 角度深入理解 Kotlin](https://chiclaim.blog.csdn.net/article/details/85575213)  
 
 # 计算机系统
 - [编程范式：命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  

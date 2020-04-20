@@ -48,29 +48,30 @@
 
 # Android
 ## Android基础
-- [Android onSaveInstanceState 实时保存数据](https://blog.csdn.net/adminlxb89/article/details/81365082)  
-- [Android DecorView浅析](https://www.cnblogs.com/ldq2016/p/6671501.html)  
-- [Android中两种序列化方式的比较Serializable和Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
 - [Jvm、Dalvik和Art的区别](https://www.jianshu.com/p/59d98244fb52)  
 - [compileSdkVersion，targetSdkVersion和minSdkVersion三者的关系](https://blog.csdn.net/u012345683/article/details/81286989)  
+- [Android onSaveInstanceState 实时保存数据](https://blog.csdn.net/adminlxb89/article/details/81365082)  
+- [Android中两种序列化方式的比较Serializable和Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
+- [简化Parcelable的使用](https://blog.csdn.net/u013265344/article/details/87979948)  
+- [深入理解Message, MessageQueue, Handler和Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
+- [Handler、Thread、HandlerThread三者的区别](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
+- [Android DecorView浅析](https://www.cnblogs.com/ldq2016/p/6671501.html)  
 - [自定义View，有这一篇就够了](https://www.jianshu.com/p/c84693096e41)  
 - [Activity-Window-View三者的关系](https://blog.csdn.net/qq_21399461/article/details/79836806)
-- [深入理解Message, MessageQueue, Handler和Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
 - [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.cnblogs.com/ldq2016/p/9651260.html)  
-- [简化Parcelable的使用](https://blog.csdn.net/u013265344/article/details/87979948)  
+- [SurfaceView和普通view的区别及简单使用](https://blog.csdn.net/u010126792/article/details/86249399) 
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
+- [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
 - [Android进程间通信的几种方式](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
 - [通用网络请求实现之HttpURLConnection和OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
-- [两个 Activity 之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
-- [Android系统中的五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
-- [Handler、Thread、HandlerThread三者的区别](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
-- [Android ListView与RecyclerView对比浅析](https://blog.csdn.net/import_sadaharu/article/details/81323801)  
-- [SurfaceView和普通view的区别及简单使用](https://blog.csdn.net/u010126792/article/details/86249399)  
+- [两个Activity之间跳转时必然会执行的是哪几个方法？](https://www.cnblogs.com/loaderman/p/6524226.html)  
+- [Android ListView与RecyclerView对比浅析](https://blog.csdn.net/import_sadaharu/article/details/81323801)   
 
 ## Android进阶
 - [Android系统显示原理简介](https://www.jianshu.com/p/a978a6250f9e)  
-- [浅谈移动端 View 的显示过程](https://www.diycode.cc/topics/3183)  
+- [浅谈移动端View的显示过程](https://www.diycode.cc/topics/3183)  
 - [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](https://blog.csdn.net/a396901990/article/details/36475213)  
+- [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 - [Android事件分发机制详解：史上最全面、最易懂](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [Android热更新实现原理浅析](https://www.jianshu.com/p/8dcf750acdfe)  
 - [Android中图片的三级缓存详解](https://blog.csdn.net/languobeibei/article/details/73176506)  
@@ -80,7 +81,6 @@
 - [ARouter原理剖析和自己实现EasyRouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
 - [APK安装流程概述](https://www.cnblogs.com/neo-java/p/7117482.html)  
 - [一个APP从启动到主页面显示经历了哪些过程？](https://www.jianshu.com/p/a72c5ccbd150)  
-- [Android UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 - [android签名机制](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 - [聊一聊 RxJava2 中的异常及处理方式](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Android全埋点](https://www.jianshu.com/p/705a2f9f8e09)  
@@ -140,7 +140,7 @@
 - [Java之动态编译，静态编译简单理解和实例](https://www.jianshu.com/p/781987c1db8a)  
 - [浅谈Java中的hashcode方法](https://www.cnblogs.com/dolphin0520/p/3681042.html)  
 - [Object类有哪些方法？各有什么作用？](https://blog.csdn.net/qq_30264689/article/details/81903031)  
-- [java中实现多态的机制是什么？](https://blog.csdn.net/bornlili/article/details/55213563)  
+- [java中实现多态的机制是什么？](https://blog.csdn.net/github_37130188/article/details/89931885)  
 - [final修饰符有什么特点](https://www.cnblogs.com/huiyuantang/p/5422317.html)  
 - [Java中的static关键字解析](https://www.cnblogs.com/dolphin0520/p/3799052.html)  
 - [成员变量存在堆中，局部变量存在栈中的理解](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
@@ -166,7 +166,9 @@
 - [总算有人把动态代理、CGlib、AOP都说清楚了！](https://mp.weixin.qq.com/s?__biz=MzU3MDc3OTI1NA==&mid=2247484434&idx=1&sn=fcf722fc2b3503a630ebd46efd182107&chksm=fceb770bcb9cfe1d10ecaa47c9f349c9b9c87fc2a9e703352d7548d63d6f2f320a409b59f2fc&mpshare=1&scene=1&srcid=&key=ec8d854d0e9af0d3f99aa35465ce4ce01cda5169bde4697c5a903f37f8d3ace61a90a83f1852301f02ea8a8461082cc6aba1285e2059f2857b8da8310bedaa0b7ff684492bcfcaffa07d654e341c258c&ascene=1&uin=Mjc4NTgyNjQw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=1%2FK0RtFn7h16kVaCrkkuyvto8AgrLDbt5Y4QPJB7YG1fGCfgpKUkXVu9k3LIio0I)  
 
 ## Java优化
+- [内存抖动](https://www.jianshu.com/p/dde9f68409bd)  
 - [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
+- [内存碎片产生原因及解决办法](https://blog.csdn.net/csdn_kou/article/details/82891141)  
 - [为什么StringBuilder的效率要比String高?](https://blog.csdn.net/qq_31209193/article/details/81092958)  
 
 ## Java数据结构
@@ -181,10 +183,11 @@
 - [WeakHashMap的弱键回收机制](https://blog.csdn.net/u014294681/article/details/86522487)  
 
 ## Java线程、多线程、线程池、并发
+- [并发和并行](https://www.cnblogs.com/xc-chejj/p/10813692.html)  
 - [Java常见面试题之多线程和高并发详解](https://www.jb51.net/article/160125.htm) 
 - [从多线程的三个特性理解多线程开发](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
 - [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)  
-- [有了进程为什么还要线程？](https://www.cnblogs.com/Berryxiong/p/6429723.html)  
+- [进程和线程的区别](https://www.zhihu.com/question/25532384)  
 - [Java多线程----线程的同步，锁和死锁，问题以及解决方法（例子说明）](https://blog.csdn.net/qq_36186690/article/details/82940620) 
 - [多线程读写文件的安全](https://blog.csdn.net/qq_34028539/article/details/80563649)  
 - [Java Runnable与Callable区别](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
@@ -193,10 +196,10 @@
 - [线程的同步控制synchronized和lock的对比和区别](https://blog.csdn.net/wu1226419614/article/details/73740899)  
 
 ## JVM
+- [Java程序编译和运行的过程](https://www.cnblogs.com/qiumingcheng/p/5398610.html)  
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  
 - [搞定JVM垃圾回收就是这么简单](https://blog.csdn.net/qq_34337272/article/details/82177383)  
 - [Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
-- [GC算法](https://blog.csdn.net/luomingkui1109/article/details/72821082)  
 - [Javassist动态编程](https://nickid.cn/2017/02/Javassist%E5%8A%A8%E6%80%81%E7%BC%96%E7%A8%8B/)  
 - [java语言为什么可以跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
 

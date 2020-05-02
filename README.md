@@ -222,7 +222,7 @@
 - [二叉树的深度优先和广度优先遍历（超详细步骤）（java实现）](https://blog.csdn.net/XTAOTWO/article/details/83625586)  
 
 ## 排序
-- [十大排序算法](https://www.colabug.com/4194710.html)  
+- [十大排序算法](https://www.cnblogs.com/guoyaohua/p/8600214.html)  
 - [排序算法的时间复杂度、空间复杂度、稳定性比较](https://www.cnblogs.com/jkxsz2333/p/9513901.html)  
 
 ## 工具

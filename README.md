@@ -110,6 +110,7 @@
 - [（Android Studio 3.0）Android Profiler内存泄漏检查](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [Android图片优化指南](https://segmentfault.com/a/1190000015723665)  
 - [今日头条屏幕适配方案终极版正式发布!](https://www.jianshu.com/p/4aa23d69d481)  
+- [请不要滥用SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  
 
 ## 架构
 - [App架构经验总结（转载）](https://www.cnblogs.com/ssrstm/p/5709830.html)  

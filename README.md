@@ -62,19 +62,20 @@
 - [compileSdkVersion，targetSdkVersion、minSdkVersion](https://blog.csdn.net/u012345683/article/details/81286989)  
 - [onSaveInstanceState、onRestoreInstanceState](https://blog.csdn.net/adminlxb89/article/details/81365082)  
 - [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
+- [Serializable、Parcelable](https://blog.csdn.net/qq_24349189/article/details/100108298)  
 - [Message, MessageQueue, Handle、Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
 - [Handler、Thread、HandlerThread](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
 - [Window、Activity、DecorView、ViewRoot](https://www.cnblogs.com/ldq2016/p/9651260.html)  
 - [SurfaceView、View](https://blog.csdn.net/u010126792/article/details/86249399) 
 - [五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
-- [进程间通信方式](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
+- [多进程](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
+- [进程间通信](https://blog.csdn.net/hzw2017/article/details/81275438)  
 - [HttpURLConnection、OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
 - [Activity跳转执行方法](https://www.cnblogs.com/loaderman/p/6524226.html)  
 - [ListView、RecyclerView](https://blog.csdn.net/import_sadaharu/article/details/81323801)   
 - [动画种类](https://blog.csdn.net/u012811342/article/details/75909701)  
 - [REST、RESTful、RESTful API](https://blog.csdn.net/xiaojin21cen/article/details/78696943)  
 - [TaskAffinity](https://www.jianshu.com/p/e8d3cba362a9)  
-- [Parcelable、Serializable](https://blog.csdn.net/qq_24349189/article/details/100108298)  
 
 ## Android进阶
 - [系统显示原理](https://www.jianshu.com/p/a978a6250f9e)  
@@ -140,7 +141,7 @@
 
 # Java
 ## Java基础
-- [反射](https://blog.csdn.net/lwl20140904/article/details/80163880)  
+- [反射](https://blog.csdn.net/ddnosh/article/details/100042841)  
 - [new instance、new](https://blog.csdn.net/qq_21071965/article/details/55666838)  
 - [动态编译，静态编译](https://www.jianshu.com/p/781987c1db8a)  
 - [多态机制](https://blog.csdn.net/github_37130188/article/details/89931885)  

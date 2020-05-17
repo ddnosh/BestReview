@@ -111,7 +111,6 @@
 - [Android Profiler](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  
 - [Parcelable简化](https://blog.csdn.net/u013265344/article/details/87979948)  
-- [subString](https://blog.csdn.net/yiluoak_47/article/details/195664874)  
 
 ## 架构
 - [App架构经验总结](https://www.cnblogs.com/ssrstm/p/5709830.html)  
@@ -176,6 +175,7 @@
 - [解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
 - [内存碎片](https://blog.csdn.net/csdn_kou/article/details/82891141)  
 - [StringBuilder和String](https://blog.csdn.net/qq_31209193/article/details/81092958)  
+- [subString](https://blog.csdn.net/itmyhome1990/article/details/77647800)  
 
 ## Java设计模式
 - [原则](https://blog.csdn.net/ddnosh/article/details/88917700)  

@@ -103,6 +103,7 @@
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
 - [混合开发](https://www.jianshu.com/p/8e99b4aed464)  
 - [JetPack](https://www.jianshu.com/p/53f02494c926)  
+- [ANR](https://blog.csdn.net/xzytl60937234/article/details/82493470)  
 
 ## Android优化
 - [优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
@@ -205,25 +206,27 @@
 - [深拷贝、浅拷贝](https://www.cnblogs.com/xinyueBlog/p/6179096.html)  
 - [二叉树](https://www.jianshu.com/p/8619a89077a8)  
 - [链表](https://blog.csdn.net/weixin_39843989/article/details/101543108)  
+- [List去重](https://www.cnblogs.com/itzyz/p/12176122.html)  
 
 ## Java线程、多线程、线程池、并发
-- [sleep、Wait、volatile、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
-- [sleep、Wait、volatile、join](https://www.cnblogs.com/yiRain1992/p/8053557.html)  
-- [sleep、Wait、volatile、join](https://blog.csdn.net/chenkaibsw/article/details/80912878)  
+- [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
+- [sleep、Wait、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
+- [Join](https://blog.csdn.net/chenkaibsw/article/details/80912878)  
 - [ThreadLocal、Volatile、synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
+- [Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
+- [Synchronized、Lock](https://blog.csdn.net/wu1226419614/article/details/73740899)  
+- [Lock、Condition](https://blog.csdn.net/cowbin2012/article/details/103443626)  
 - [并发和并行](https://www.cnblogs.com/xc-chejj/p/10813692.html)  
 - [并发合集](https://www.cnblogs.com/web424/p/7975581.html)  
 - [多线程](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
 - [多线程](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 - [多线程、高并发](https://www.jb51.net/article/160125.htm)  
 - [进程和线程的区别](https://www.zhihu.com/question/25532384)  
+- [进程、线程、协程](https://blog.csdn.net/daaikuaichuan/article/details/82951084)  
 - [线程的同步、锁、死锁](https://blog.csdn.net/qq_36186690/article/details/82940620) 
 - [多线程读写文件](https://blog.csdn.net/qq_34028539/article/details/80563649)  
 - [Runnable、Callable](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
 - [管程](https://blog.csdn.net/pizicai007/article/details/88723854)  
-- [Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
-- [Synchronized、Lock](https://blog.csdn.net/wu1226419614/article/details/73740899)  
-- [Lock、Condition](https://blog.csdn.net/cowbin2012/article/details/103443626)  
 - [Thread: start、run](https://blog.csdn.net/woshizisezise/article/details/79938915)  
 
 ## JVM
@@ -252,6 +255,7 @@
 - [HTTP、TCP、UDP，Socket，HTTPS](https://blog.csdn.net/WHB20081815/article/details/67640804)  
 - [Http断点续传](https://blog.csdn.net/weixin_38055381/article/details/82753480)  
 - [TCP三次握手](https://www.cnblogs.com/zhuzhenwei918/p/7465467.html)  
+- [HTTP协议特点](https://blog.csdn.net/weixin_41399785/article/details/78816441)  
 
 # 算法
 ## 查找

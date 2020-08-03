@@ -210,6 +210,7 @@
 
 ## Java线程、多线程、线程池、并发
 - [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
+- [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
 - [sleep、Wait、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
 - [Join](https://blog.csdn.net/chenkaibsw/article/details/80912878)  
 - [ThreadLocal、Volatile、synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  

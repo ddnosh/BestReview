@@ -16,12 +16,12 @@
 <br>
 
 - [项目](#Project)  
-  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
-  - [性能优化方案](https://github.com/JsonChao/Awesome-Android-Performance)  
+  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)   
   - [App: TouTiao](https://github.com/chaychan/TouTiao)  
-  - [插件化](https://github.com/iReaderAndroid/ZeusPlugin)  
-  - [组件化](https://github.com/yangchong211/LifeHelper)  
-  - [Crash](https://github.com/android-notes/Cockroach)  
+  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance) 
+  - [插件化：ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
+  - [组件化：LifeHelper](https://github.com/yangchong211/LifeHelper)  
+  - [Crash：Cockroach](https://github.com/android-notes/Cockroach)  
 
 - [Android](#Android)
   - [基础](#Android基础)
@@ -61,8 +61,7 @@
 - [Jvm、Dalvik、Art](https://www.jianshu.com/p/59d98244fb52)  
 - [compileSdkVersion，targetSdkVersion、minSdkVersion](https://blog.csdn.net/u012345683/article/details/81286989)  
 - [onSaveInstanceState、onRestoreInstanceState](https://blog.csdn.net/adminlxb89/article/details/81365082)  
-- [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
-- [Serializable、Parcelable](https://blog.csdn.net/qq_24349189/article/details/100108298)  
+- [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130) 
 - [Message, MessageQueue, Handle、Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
 - [Handler、Thread、HandlerThread](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
 - [Window、Activity、DecorView、ViewRoot](https://www.cnblogs.com/ldq2016/p/9651260.html)  
@@ -191,7 +190,7 @@
 
 ## Java数据结构
 - [HashMap](https://www.cnblogs.com/chengxiao/p/6059914.html)  
-- [HashMap](https://www.jianshu.com/p/25ddc19839b3)  
+- [HashMap拓展](https://www.jianshu.com/p/25ddc19839b3)  
 - [HashMap、HashTable](https://blog.csdn.net/skygm/article/details/88666118)  
 - [HashMap、Hashtable、ConcurrentHashMap](https://blog.csdn.net/caisongcheng_good/article/details/79489852)  
 - [HashMap、SparseArray](https://blog.csdn.net/qwer123qwerz/article/details/79345524)  
@@ -220,8 +219,8 @@
 - [Lock、Condition](https://blog.csdn.net/cowbin2012/article/details/103443626)  
 - [并发和并行](https://www.cnblogs.com/xc-chejj/p/10813692.html)  
 - [并发合集](https://www.cnblogs.com/web424/p/7975581.html)  
-- [多线程](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
-- [多线程](https://www.cnblogs.com/wxd0108/p/5479442.html)  
+- [多线程1](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
+- [多线程2](https://www.cnblogs.com/wxd0108/p/5479442.html)  
 - [多线程、高并发](https://www.jb51.net/article/160125.htm)  
 - [进程和线程的区别](https://www.zhihu.com/question/25532384)  
 - [进程、线程、协程](https://blog.csdn.net/daaikuaichuan/article/details/82951084)  
@@ -237,10 +236,8 @@
 - [垃圾回收](https://blog.csdn.net/qq_34337272/article/details/82177383)  
 - [GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
 - [GC算法](https://blog.csdn.net/windcake/article/details/54810052)  
-- [GC Root](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
-- [GC Root](https://www.jianshu.com/p/635f3185bbc4)  
-- [GC Root](https://www.cnblogs.com/kelelipeng/p/10738223.html)  
-- [GC Root算法](https://www.jianshu.com/p/b79fe594eed3)  
+- [GC Root1](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
+- [GC Root2](https://www.jianshu.com/p/635f3185bbc4)  
 - [Javassist](https://nickid.cn/2017/02/Javassist%E5%8A%A8%E6%80%81%E7%BC%96%E7%A8%8B/)  
 - [Java跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
 
@@ -262,8 +259,8 @@
 # 算法
 ## 查找
 - [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
-- [二分查找](https://www.jianshu.com/p/0f823fbd4d20)  
-- [二分查找](https://blog.csdn.net/wtzhm/article/details/87346375)  
+- [二分查找1](https://www.jianshu.com/p/0f823fbd4d20)  
+- [二分查找2](https://blog.csdn.net/wtzhm/article/details/87346375)  
 - [visualgo](https://visualgo.net/en)  
 - [二叉树、深度优先、广度优先遍历](https://blog.csdn.net/XTAOTWO/article/details/83625586)  
 

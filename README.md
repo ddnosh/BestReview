@@ -210,7 +210,7 @@
 ## Java线程、多线程、线程池、并发
 - [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
 - [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
-- [sleep、Wait、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
+- [sleep、wait、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
 - [Join](https://blog.csdn.net/chenkaibsw/article/details/80912878)  
 - [ThreadLocal、Volatile、synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [Volatile](https://www.cnblogs.com/whalefalles/p/11264439.html)  
@@ -238,7 +238,7 @@
 - [GC算法](https://blog.csdn.net/windcake/article/details/54810052)  
 - [GC Root1](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
 - [GC Root2](https://www.jianshu.com/p/635f3185bbc4)  
-- [Javassist](https://nickid.cn/2017/02/Javassist%E5%8A%A8%E6%80%81%E7%BC%96%E7%A8%8B/)  
+- [Javassist](https://www.cnblogs.com/rickiyang/p/11336268.html)  
 - [Java跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
 
 # Kotlin

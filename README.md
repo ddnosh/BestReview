@@ -99,7 +99,7 @@
 - [RxJava2异常](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Observable、Flowable、Single、Maybe、Completable](https://www.jianshu.com/p/45309538ad94?open_source)  
 - [Binder、AIDL](https://blog.csdn.net/zhangying1994/article/details/86747392)  
-- [进程保活](https://blog.csdn.net/zhangbijun1230/article/details/81638669)  
+- [进程保活](https://www.jianshu.com/p/f5936dabad5a)  
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
 - [混合开发](https://www.jianshu.com/p/8e99b4aed464)  
 - [JetPack](https://www.jianshu.com/p/53f02494c926)  

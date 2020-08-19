@@ -16,9 +16,8 @@
 <br>
 
 - [项目](#Project)  
-  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)   
-  - [App: TouTiao](https://github.com/chaychan/TouTiao)  
-  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance) 
+  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
+  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance)  
   - [插件化：ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
   - [组件化：LifeHelper](https://github.com/yangchong211/LifeHelper)  
   - [Crash：Cockroach](https://github.com/android-notes/Cockroach)  
@@ -67,7 +66,6 @@
 - [Window、Activity、DecorView、ViewRoot](https://www.cnblogs.com/ldq2016/p/9651260.html)  
 - [SurfaceView、View](https://blog.csdn.net/u010126792/article/details/86249399) 
 - [五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
-- [多进程](https://www.cnblogs.com/lizhengxian/p/5075635.html)  
 - [进程间通信](https://blog.csdn.net/hzw2017/article/details/81275438)  
 - [HttpURLConnection、OkHttp](https://blog.csdn.net/hanmindi/article/details/79449604)  
 - [Activity跳转执行方法](https://www.cnblogs.com/loaderman/p/6524226.html)  
@@ -78,8 +76,6 @@
 
 ## Android进阶
 - [系统显示原理](https://www.jianshu.com/p/a978a6250f9e)  
-- [View显示过程](https://www.diycode.cc/topics/3183)  
-- [UI刷新机制](https://www.jianshu.com/p/71703df6df40)  
 - [自定义View](https://www.cnblogs.com/xww0826/p/10359502.html)  
 - [事件分发](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [热更新原理](https://www.jianshu.com/p/8dcf750acdfe)  

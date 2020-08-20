@@ -207,10 +207,8 @@
 ## Java线程、多线程、线程池、并发
 - [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
 - [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
-- [sleep、wait、join](https://www.cnblogs.com/hongten/p/hongten_java_sleep_wait.html)  
-- [Join](https://blog.csdn.net/chenkaibsw/article/details/80912878)  
-- [ThreadLocal、Volatile、synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
-- [Volatile](https://www.cnblogs.com/whalefalles/p/11264439.html)  
+- [sleep、wait、yield、join](https://www.cnblogs.com/huajiezh/p/5868681.html)  
+- [ThreadLocal、Volatile、Synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
 - [Synchronized、Lock](https://blog.csdn.net/wu1226419614/article/details/73740899)  
 - [Lock、Condition](https://blog.csdn.net/cowbin2012/article/details/103443626)  

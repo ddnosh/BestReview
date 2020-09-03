@@ -12,6 +12,8 @@
 > - [Android初级、中级、高级、资深工程师(架构师、专家)技能图谱](https://blog.csdn.net/ddnosh/article/details/108172983)  
 > - [Android开发想要百万年薪，你得这样做！](https://blog.csdn.net/ddnosh/article/details/105193480)  
 
+> 另外有一份适合Android个阶段开发的面试资料整理，请点击：[README_ALL.md](https://github.com/ddnosh/BestReview/blob/master/README_ALL.md)  
+
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯
 
 

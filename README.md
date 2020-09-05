@@ -33,3 +33,7 @@
 
 ## Android优化
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)  
+
+## Android开源框架
+- [Java内存问题 及 LeakCanary 原理分析](https://juejin.im/post/6844903583129796622)  
+

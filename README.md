@@ -30,9 +30,13 @@
 - [Java 多线程文件并发操作](https://www.jianshu.com/p/89cad15fff31)  
 - [同步、异步、阻塞、非阻塞IO总结（IO模型总结）](https://blog.csdn.net/qq_36573828/article/details/89149057)  
 - [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
+- [Android解决进程间通信，线程同步的问题](https://blog.csdn.net/zy_style/article/details/53913795)  
 
 ## Android优化
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)  
+- [SparseArray：解析与实现](https://segmentfault.com/a/1190000017920239)  
+- [面试必备：ArrayMap源码解析](https://www.jianshu.com/p/1fb660978b14)  
+- [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)  
 
 ## Android开源框架
 - [Java内存问题 及 LeakCanary 原理分析](https://juejin.im/post/6844903583129796622)  

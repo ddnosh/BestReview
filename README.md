@@ -31,6 +31,7 @@
 - [同步、异步、阻塞、非阻塞IO总结（IO模型总结）](https://blog.csdn.net/qq_36573828/article/details/89149057)  
 - [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
 - [Android解决进程间通信，线程同步的问题](https://blog.csdn.net/zy_style/article/details/53913795)  
+- [美团外卖Android Crash治理之路](https://tech.meituan.com/2018/06/14/waimai-android-crash.html)  
 
 ## Android优化
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)  
@@ -40,4 +41,5 @@
 
 ## Android开源框架
 - [Java内存问题 及 LeakCanary 原理分析](https://juejin.im/post/6844903583129796622)  
+- [Android开发必备神器-CrashCanary](https://blog.csdn.net/BigBoySunshine/article/details/106645979)  
 

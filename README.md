@@ -34,6 +34,7 @@
 - [Android解决进程间通信，线程同步的问题](https://blog.csdn.net/zy_style/article/details/53913795)  
 - [美团外卖Android Crash治理之路](https://tech.meituan.com/2018/06/14/waimai-android-crash.html)  
 - [死锁](https://www.cnblogs.com/myworld7/p/12230010.html)  
+- [10分钟了解Android项目构建流程](https://juejin.im/post/6844903555795517453)  
 
 ## Android优化
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)  
@@ -43,6 +44,7 @@
 - [MultiDex使用方法及由此导致的crash、ANR问题解决方案](https://blog.csdn.net/zhuobattle/article/details/52958364)   
 - [全综合：android APP性能优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
 - [Android App性能评测分析-启动时间篇](https://www.jianshu.com/p/fe81e4b4c5ba)  
+- [Android中图片优化](https://www.jianshu.com/p/e0d1f15184f3)  
 
 ## Android开源框架
 - [Java内存问题 及 LeakCanary 原理分析](https://juejin.im/post/6844903583129796622)  

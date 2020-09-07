@@ -39,6 +39,7 @@
 - [SparseArray：解析与实现](https://segmentfault.com/a/1190000017920239)  
 - [面试必备：ArrayMap源码解析](https://www.jianshu.com/p/1fb660978b14)  
 - [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)  
+- [MultiDex使用方法及由此导致的crash、ANR问题解决方案](https://blog.csdn.net/zhuobattle/article/details/52958364)  
 
 ## Android开源框架
 - [Java内存问题 及 LeakCanary 原理分析](https://juejin.im/post/6844903583129796622)  

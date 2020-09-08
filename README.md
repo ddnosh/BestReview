@@ -43,8 +43,14 @@
 - [面试必备：ArrayMap源码解析](https://www.jianshu.com/p/1fb660978b14)  
 - [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)  
 - [MultiDex使用方法及由此导致的crash、ANR问题解决方案](https://blog.csdn.net/zhuobattle/article/details/52958364)   
+- [Android 优化目录](https://www.jianshu.com/p/03358cc6030a)  
 - [全综合：android APP性能优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
 - [Android App性能评测分析-启动时间篇](https://www.jianshu.com/p/fe81e4b4c5ba)  
+- [Android App性能评测分析－网络流量篇](https://www.jianshu.com/p/d3ce220664fe)  
+- [Android App性能评测分析－内存篇](https://www.jianshu.com/p/e425e02c1eb4)  
+- [Android App性能评测分析－cpu占用篇](https://www.jianshu.com/p/31b1a4aef550)  
+- [Android App性能评测分析－流畅度篇](https://www.jianshu.com/p/642f47989c7c)  
+- [Android电量优化全解析](https://www.jianshu.com/p/c86021fe958d)  
 - [Android中图片优化](https://www.jianshu.com/p/e0d1f15184f3)  
 
 ## Android开源框架

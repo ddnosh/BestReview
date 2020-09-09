@@ -34,8 +34,10 @@
 - [Android解决进程间通信，线程同步的问题](https://blog.csdn.net/zy_style/article/details/53913795)  
 - [美团外卖Android Crash治理之路](https://tech.meituan.com/2018/06/14/waimai-android-crash.html)  
 - [死锁](https://www.cnblogs.com/myworld7/p/12230010.html)  
-- [10分钟了解Android项目构建流程](https://juejin.im/post/6844903555795517453)  
 - [Protobuffer和json深度对比](https://www.iteye.com/blog/cxshun-1974498)  
+- [10分钟了解Android项目构建流程](https://juejin.im/post/6844903555795517453)  
+- [Android-通俗易懂分析从APP启动到View显示全流程](https://www.jianshu.com/p/902305f944e5)  
+- [彻底解析Android缓存机制——LruCache](https://juejin.im/post/6844903800088559623)  
 
 ## Android优化
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)  

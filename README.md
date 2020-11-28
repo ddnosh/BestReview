@@ -7,11 +7,11 @@
 
 <!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
-| 项目[:yum:](#Project) | Android[:bowtie:](#Android) | Java[:blush:](#Java)|Kotlin[:heart_eyes:](#Kotlin) | 计算机系统[:relieved:](#计算机系统) |算法[:stuck_out_tongue_winking_eye:](#算法)| 工具 [:kissing_smiling_eyes:](#工具)| 产品[:frowning:](#产品)| 服务器[:confused:](#服务器)| -->
+| 计算机系统[:relieved:](#计算机系统) | Android[:bowtie:](#Android) | Java[:blush:](#Java)|Kotlin[:heart_eyes:](#Kotlin) |算法[:stuck_out_tongue_winking_eye:](#算法)| 工具 [:kissing_smiling_eyes:](#工具)| 产品[:frowning:](#产品)| 后台[:confused:](#后台)| 项目[:yum:](#Project) | -->
 
-| 项目 | &nbsp;Android&nbsp; | Java | &nbsp;Kotlin&nbsp; | &nbsp;计算机系统&nbsp; | 算法 | &nbsp;&nbsp;工具&nbsp;&nbsp; | &nbsp;产品&nbsp; | &nbsp;服务器&nbsp; |
+| &nbsp;计算机系统&nbsp; | &nbsp;Android&nbsp; | Java | &nbsp;Kotlin&nbsp; | 算法 | &nbsp;&nbsp;工具&nbsp;&nbsp; | &nbsp;产品&nbsp; | &nbsp;后台&nbsp; | 项目 |
 | :--------: | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
-| [:yum:](#Project) | [:bowtie:](#Android) | [:blush:](#Java)|[:heart_eyes:](#Kotlin) | [:relieved:](#计算机系统) |[:stuck_out_tongue_winking_eye:](#算法)|  [:kissing_smiling_eyes:](#工具)| [:frowning:](#产品)| [:confused:](#服务器)|
+| [:relieved:](#计算机系统)| [:bowtie:](#Android) | [:blush:](#Java)|[:heart_eyes:](#Kotlin)  |[:stuck_out_tongue_winking_eye:](#算法)|  [:kissing_smiling_eyes:](#工具)| [:frowning:](#产品)| [:confused:](#后台)| [:yum:](#Project) |
 
 <br>
 
@@ -20,13 +20,10 @@
 > - [Android初级、中级、高级、资深工程师(架构师、专家)技能图谱](https://blog.csdn.net/ddnosh/article/details/108172983)  
 > - [Android开发想要百万年薪，你得这样做！](https://blog.csdn.net/ddnosh/article/details/105193480)  
 
-
-- [项目](#Project)  
-  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
-  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance)  
-  - [插件化：ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
-  - [组件化：LifeHelper](https://github.com/yangchong211/LifeHelper)  
-  - [Crash：Cockroach](https://github.com/android-notes/Cockroach)  
+- [计算机系统](#计算机系统)
+  - [计算机网络](#Android计算机网络)
+  - [操作系统](#操作系统)
+  - [数据库](#数据库)
 
 - [Android](#Android)
   - [基础](#Android基础)
@@ -47,8 +44,6 @@
   - [JVM](#JVM)  
   
 - [Kotlin](#Kotlin)
-  
-- [计算机系统](#计算机系统)
 
 - [算法](#算法)
   - [查找](#查找)
@@ -60,6 +55,26 @@
 - [产品](#产品)
 
 - [服务器](#服务器)
+
+- [项目](#Project)  
+  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
+  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance)  
+  - [插件化：ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
+  - [组件化：LifeHelper](https://github.com/yangchong211/LifeHelper)  
+  - [Crash：Cockroach](https://github.com/android-notes/Cockroach)  
+
+# 计算机系统
+## 计算机网络
+- [命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
+- [HTTP协议详解](https://www.jianshu.com/p/7c8b4576e4bb)  
+- [HTTP状态码](https://www.cnblogs.com/scyitgz/p/5216031.html)  
+- [HTTP、HTTPS](https://www.cnblogs.com/wqhwe/p/5407468.html)  
+- [HTTP、TCP、UDP，Socket，HTTPS](https://blog.csdn.net/WHB20081815/article/details/67640804)  
+- [Http断点续传](https://blog.csdn.net/weixin_38055381/article/details/82753480)  
+- [TCP三次握手](https://www.cnblogs.com/zhuzhenwei918/p/7465467.html)  
+- [HTTP协议特点](https://blog.csdn.net/weixin_41399785/article/details/78816441)  
+## 操作系统
+## 数据库
 
 # Android
 ## Android基础
@@ -244,16 +259,6 @@
 - [优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
 - [入门](https://www.jianshu.com/p/bb53cba6c8f4)  
 - [深入理解](https://chiclaim.blog.csdn.net/article/details/85575213)  
-
-# 计算机系统
-- [命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
-- [HTTP协议详解](https://www.jianshu.com/p/7c8b4576e4bb)  
-- [HTTP状态码](https://www.cnblogs.com/scyitgz/p/5216031.html)  
-- [HTTP、HTTPS](https://www.cnblogs.com/wqhwe/p/5407468.html)  
-- [HTTP、TCP、UDP，Socket，HTTPS](https://blog.csdn.net/WHB20081815/article/details/67640804)  
-- [Http断点续传](https://blog.csdn.net/weixin_38055381/article/details/82753480)  
-- [TCP三次握手](https://www.cnblogs.com/zhuzhenwei918/p/7465467.html)  
-- [HTTP协议特点](https://blog.csdn.net/weixin_41399785/article/details/78816441)  
 
 # 算法
 ## 查找

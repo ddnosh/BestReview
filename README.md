@@ -7,11 +7,11 @@
 
 <!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
-| 计算机系统[:relieved:](#计算机系统) | Android[:bowtie:](#Android) | Java[:blush:](#Java)|Kotlin[:heart_eyes:](#Kotlin) |算法[:stuck_out_tongue_winking_eye:](#算法)| 工具 [:kissing_smiling_eyes:](#工具)| 产品[:frowning:](#产品)| 后台[:confused:](#后台)| 项目[:yum:](#Project) | -->
+| 计算机系统[:relieved:](#计算机系统) | Java[:blush:](#Java)| Android[:bowtie:](#Android) |Kotlin[:heart_eyes:](#Kotlin) |算法[:stuck_out_tongue_winking_eye:](#算法)| 工具 [:kissing_smiling_eyes:](#工具)| 产品[:frowning:](#产品)| 后台[:confused:](#后台)| 项目[:yum:](#Project) | -->
 
-| &nbsp;计算机系统&nbsp; | &nbsp;Android&nbsp; | Java | &nbsp;Kotlin&nbsp; | 算法 | &nbsp;&nbsp;工具&nbsp;&nbsp; | &nbsp;产品&nbsp; | &nbsp;后台&nbsp; | 项目 |
+| &nbsp;计算机系统&nbsp; | Java | &nbsp;Android&nbsp; | &nbsp;Kotlin&nbsp; | 算法 | &nbsp;&nbsp;工具&nbsp;&nbsp; | &nbsp;产品&nbsp; | &nbsp;后台&nbsp; | 项目 |
 | :--------: | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
-| [:relieved:](#计算机系统)| [:bowtie:](#Android) | [:blush:](#Java)|[:heart_eyes:](#Kotlin)  |[:stuck_out_tongue_winking_eye:](#算法)|  [:kissing_smiling_eyes:](#工具)| [:frowning:](#产品)| [:confused:](#后台)| [:yum:](#Project) |
+| [:relieved:](#计算机系统)| [:blush:](#Java)| [:bowtie:](#Android) |[:heart_eyes:](#Kotlin)|[:stuck_out_tongue_winking_eye:](#算法)|  [:kissing_smiling_eyes:](#工具)| [:frowning:](#产品)| [:confused:](#后台)| [:yum:](#Project) |
 
 <br>
 
@@ -21,19 +21,10 @@
 > - [Android开发想要百万年薪，你得这样做！](https://blog.csdn.net/ddnosh/article/details/105193480)  
 
 - [计算机系统](#计算机系统)
-  - [计算机网络](#Android计算机网络)
+  - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - [数据库](#数据库)
 
-- [Android](#Android)
-  - [基础](#Android基础)
-  - [进阶](#Android进阶)
-  - [优化](#Android优化)
-  - [架构](#架构)
-  - [测试](#测试)
-  - [规范](#规范)
-  - [开源框架](#开源框架)
-  
 - [Java](#Java)
   - [基础](#Java基础)
   - [进阶](#Java进阶)  
@@ -42,6 +33,15 @@
   - [数据结构](#Java数据结构)  
   - [线程、多线程、线程池、并发](#Java线程、多线程、线程池、并发)
   - [JVM](#JVM)  
+  
+- [Android](#Android)
+  - [基础](#Android基础)
+  - [进阶](#Android进阶)
+  - [优化](#Android优化)
+  - [架构](#架构)
+  - [测试](#测试)
+  - [规范](#规范)
+  - [开源框架](#开源框架)
   
 - [Kotlin](#Kotlin)
 
@@ -129,32 +129,6 @@
 - [Android Profiler](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  
 - [Parcelable简化](https://blog.csdn.net/u013265344/article/details/87979948)  
-
-## 架构
-- [App架构经验总结](https://www.cnblogs.com/ssrstm/p/5709830.html)  
-- [MVP](https://github.com/ddnosh/android-tiny-mvp)  
-- [MVVM](https://github.com/ddnosh/android-tiny-mvvm)  
-
-## 规范
-- [静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
-
-## 测试 
-- [自动化测试](https://www.cnblogs.com/punkisnotdead/p/5103323.html) 
-- [junit、mockito、robolectric](https://www.cnblogs.com/CharlesGrant/p/5765843.html)
-
-## 开源框架
-- [EventBus](https://blog.csdn.net/michael_yt/article/details/52014022)  
-- [LiveData](https://blog.csdn.net/Kongou/article/details/82798451)  
-- [Glide](https://www.jianshu.com/p/9d8aeaa5a329)  
-- [Glide绑定生命周期](https://www.jianshu.com/p/cdebe33df7a0)  
-- [RxJava](https://www.jianshu.com/p/695f780436dd)  
-- [Retrofit2](https://blog.csdn.net/hesong1120/article/details/78775145)  
-- [LruCache](https://blog.csdn.net/u012943767/article/details/51897259)  
-- [OkHttp](https://www.jianshu.com/p/39a7c97d2004)  
-- [ButterKnife](https://www.jianshu.com/p/b82ef05f3e8a)  
-- [GreenDAO](https://www.jianshu.com/p/0d3cbe6278fb)  
-- [ARouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
-- [DroidPlugin](https://blog.csdn.net/u013210620/article/details/54692417)  
 
 # Java
 ## Java基础
@@ -254,6 +228,32 @@
 - [GC Root](https://www.jianshu.com/p/635f3185bbc4)  
 - [Javassist](https://www.cnblogs.com/rickiyang/p/11336268.html)  
 - [Java跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
+
+## 架构
+- [App架构经验总结](https://www.cnblogs.com/ssrstm/p/5709830.html)  
+- [MVP](https://github.com/ddnosh/android-tiny-mvp)  
+- [MVVM](https://github.com/ddnosh/android-tiny-mvvm)  
+
+## 规范
+- [静态代码分析](https://blog.csdn.net/u010420435/article/details/69605583)  
+
+## 测试 
+- [自动化测试](https://www.cnblogs.com/punkisnotdead/p/5103323.html) 
+- [junit、mockito、robolectric](https://www.cnblogs.com/CharlesGrant/p/5765843.html)
+
+## 开源框架
+- [EventBus](https://blog.csdn.net/michael_yt/article/details/52014022)  
+- [LiveData](https://blog.csdn.net/Kongou/article/details/82798451)  
+- [Glide](https://www.jianshu.com/p/9d8aeaa5a329)  
+- [Glide绑定生命周期](https://www.jianshu.com/p/cdebe33df7a0)  
+- [RxJava](https://www.jianshu.com/p/695f780436dd)  
+- [Retrofit2](https://blog.csdn.net/hesong1120/article/details/78775145)  
+- [LruCache](https://blog.csdn.net/u012943767/article/details/51897259)  
+- [OkHttp](https://www.jianshu.com/p/39a7c97d2004)  
+- [ButterKnife](https://www.jianshu.com/p/b82ef05f3e8a)  
+- [GreenDAO](https://www.jianshu.com/p/0d3cbe6278fb)  
+- [ARouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
+- [DroidPlugin](https://blog.csdn.net/u013210620/article/details/54692417)  
 
 # Kotlin
 - [优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  

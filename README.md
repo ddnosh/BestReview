@@ -242,6 +242,7 @@
 - [junit、mockito、robolectric](https://www.cnblogs.com/CharlesGrant/p/5765843.html)
 
 ## 开源框架
+- [AsyncTask](https://www.jianshu.com/p/37502bbbb25a)
 - [EventBus](https://blog.csdn.net/michael_yt/article/details/52014022)  
 - [LiveData](https://blog.csdn.net/Kongou/article/details/82798451)  
 - [Glide](https://www.jianshu.com/p/9d8aeaa5a329)  

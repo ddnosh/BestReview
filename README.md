@@ -111,7 +111,7 @@
 - [组件化](https://blog.csdn.net/ddnosh/article/details/79075093)  
 - [换肤](https://blog.csdn.net/stven_king/article/details/78648095)  
 - [沉浸式](https://blog.csdn.net/u014418171/article/details/81223681)  
-- [屏幕适配](https://blog.csdn.net/nihaomabmt/article/details/71215507)  
+- [屏幕适配](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA)  
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
 - [RxJava2异常](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Observable、Flowable、Single、Maybe、Completable](https://www.jianshu.com/p/45309538ad94?open_source)  

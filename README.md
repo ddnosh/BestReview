@@ -115,7 +115,7 @@
 - [ActivityThread](https://blog.csdn.net/zhangfei2018/article/details/46518615)  
 - [RxJava2异常](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Observable、Flowable、Single、Maybe、Completable](https://www.jianshu.com/p/45309538ad94?open_source)  
-- [Binder、AIDL](https://blog.csdn.net/zhangying1994/article/details/86747392)  
+- [Binder](https://blog.csdn.net/augfun/article/details/82343249)  
 - [进程保活](https://www.jianshu.com/p/f5936dabad5a)  
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
 - [混合开发](https://www.jianshu.com/p/8e99b4aed464)  

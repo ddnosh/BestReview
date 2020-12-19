@@ -206,6 +206,7 @@
 - [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
 - [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
 - [sleep、wait、yield、join](https://www.cnblogs.com/huajiezh/p/5868681.html)  
+- [ThreadLocal原理](https://blog.csdn.net/dakaniu/article/details/80829079)  
 - [ThreadLocal、Volatile、Synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
 - [Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
 - [Synchronized、Lock](https://blog.csdn.net/wu1226419614/article/details/73740899)  

@@ -228,6 +228,7 @@
 - [线程的同步、锁、死锁](https://blog.csdn.net/qq_36186690/article/details/82940620)  
 - [CAS原子操作](https://www.cnblogs.com/lys-lyy/p/11037985.html)  
 - [CopyOnWrite](https://blog.csdn.net/xmzyjr123/article/details/86600122)  
+- [自旋锁](https://www.jianshu.com/p/9d3660ad4358)  
 - [进程切换、线程切换](https://blog.csdn.net/github_37382319/article/details/97273713)  
 - [进程间通信同步问题](https://blog.csdn.net/zy_style/article/details/53913795)  
 - [多线程读写文件](https://blog.csdn.net/qq_34028539/article/details/80563649)  

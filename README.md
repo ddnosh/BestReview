@@ -67,24 +67,27 @@
 ## 计算机网络
 - [命令式编程(Imperative)、声明式编程(Declarative)和函数式编程(Functional)](https://www.cnblogs.com/sirkevin/p/8283110.html)  
 - [HTTP协议详解](https://www.jianshu.com/p/7c8b4576e4bb)  
+- [HTTP协议特点](https://blog.csdn.net/weixin_41399785/article/details/78816441)  
 - [HTTP状态码](https://www.cnblogs.com/scyitgz/p/5216031.html)  
 - [HTTP、HTTPS](https://www.cnblogs.com/wqhwe/p/5407468.html)  
 - [HTTP、TCP、UDP，Socket，HTTPS](https://blog.csdn.net/WHB20081815/article/details/67640804)  
-- [Http断点续传](https://blog.csdn.net/weixin_38055381/article/details/82753480)  
+- [HTTP断点续传](https://blog.csdn.net/weixin_38055381/article/details/82753480)  
 - [TCP三次握手](https://www.cnblogs.com/zhuzhenwei918/p/7465467.html)  
-- [HTTP协议特点](https://blog.csdn.net/weixin_41399785/article/details/78816441)  
+
 ## 操作系统
 ## 数据库
 
 # Android
 ## Android基础
+- Android从1.0到11版本特性：[1](https://juejin.cn/post/6844903949389004807)  [2](https://blog.csdn.net/qq_44720366/article/details/105993034)  
 - [Jvm、Dalvik、Art](https://www.jianshu.com/p/59d98244fb52)  
 - [compileSdkVersion，targetSdkVersion、minSdkVersion](https://blog.csdn.net/u012345683/article/details/81286989)  
 - [onSaveInstanceState、onRestoreInstanceState](https://blog.csdn.net/adminlxb89/article/details/81365082)  
-- [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130) 
+- [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
+- [Handler](https://blog.csdn.net/luoyingxing/article/details/86500542)  
 - [Message, MessageQueue, Handle、Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  
 - [Handler、Thread、HandlerThread](https://blog.csdn.net/weixin_41101173/article/details/79687313)  
-- [Window、Activity、DecorView、ViewRoot](https://www.cnblogs.com/ldq2016/p/9651260.html)  
+- Window、Activity、DecorView、ViewRoot：[1](https://www.cnblogs.com/ldq2016/p/9651260.html)  [2](https://blog.csdn.net/qq_21399461/article/details/79836806)  
 - [SurfaceView、View](https://blog.csdn.net/u010126792/article/details/86249399) 
 - [五种进程](https://blog.csdn.net/wolfking0608/article/details/83146268)  
 - [进程间通信](https://blog.csdn.net/hzw2017/article/details/81275438)  
@@ -94,6 +97,9 @@
 - [动画种类](https://blog.csdn.net/u012811342/article/details/75909701)  
 - [REST、RESTful、RESTful API](https://blog.csdn.net/xiaojin21cen/article/details/78696943)  
 - [TaskAffinity](https://www.jianshu.com/p/e8d3cba362a9)  
+- Protocol Buffer：[1](https://www.jianshu.com/p/6dd2fd0362b8)  [2](https://www.jianshu.com/p/1538bf85dad1)  
+- [Android App进程中最少有几个线程](https://blog.csdn.net/sunxiangyuan12/article/details/80118342)  
+- WebView及缓存：[1](https://www.jianshu.com/p/5e7075f4875f)  [2](https://blog.csdn.net/qq_33539839/article/details/108866646)  
 
 ## Android进阶
 - [系统显示原理](https://www.jianshu.com/p/a978a6250f9e)  
@@ -101,14 +107,12 @@
 - [事件分发](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
 - [热更新原理](https://www.jianshu.com/p/8dcf750acdfe)  
 - [图片三级缓存](https://blog.csdn.net/languobeibei/article/details/73176506)  
-- [APT](https://www.jianshu.com/p/7af58e8e3e18)  
-- [AOP](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
-- [插件化开发](https://blog.csdn.net/u013210620/article/details/54692417)  
 - [APK安装流程](https://www.cnblogs.com/neo-java/p/7117482.html)  
 - [APP启动流程](https://www.jianshu.com/p/a72c5ccbd150)  
 - [签名](https://blog.csdn.net/gangjindianzi/article/details/85492571)  
 - [自动埋点](https://www.jianshu.com/p/705a2f9f8e09)  
-- [组件化](https://blog.csdn.net/ddnosh/article/details/79075093)  
+- 大图OOM：[1](https://blog.csdn.net/lmj623565791/article/details/49300989)  [2](https://blog.csdn.net/super_zq/article/details/52756286)  [3](https://blog.csdn.net/zb987570437/article/details/103759047)  
+- [路由](https://www.cnblogs.com/wytings/p/7634730.html)  
 - [换肤](https://blog.csdn.net/stven_king/article/details/78648095)  
 - [沉浸式](https://blog.csdn.net/u014418171/article/details/81223681)  
 - [屏幕适配](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA)  
@@ -116,46 +120,55 @@
 - [RxJava2异常](https://www.jianshu.com/p/7520e3b81ce6)  
 - [Observable、Flowable、Single、Maybe、Completable](https://www.jianshu.com/p/45309538ad94?open_source)  
 - [Binder](https://blog.csdn.net/augfun/article/details/82343249)  
+- [APT](https://www.jianshu.com/p/7af58e8e3e18)  
+- [AOP](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
+- [插件化开发](https://blog.csdn.net/u013210620/article/details/54692417)  
+- [组件化](https://blog.csdn.net/ddnosh/article/details/79075093)  
 - [进程保活](https://www.jianshu.com/p/f5936dabad5a)  
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
-- [混合开发](https://www.jianshu.com/p/8e99b4aed464)  
+- 混合开发：[1](https://www.jianshu.com/p/8e99b4aed464)  [2](https://blog.csdn.net/androidstarjack/article/details/102694022)  
 - [JetPack](https://www.jianshu.com/p/53f02494c926)  
 - [ANR](https://blog.csdn.net/xzytl60937234/article/details/82493470)  
+- Crash: [1](https://www.jianshu.com/p/76bff59b5418)  [2](https://github.com/zhaofawu/DefenseCrash)  [3](https://github.com/android-notes/Cockroach)  
+- 防止后台线程崩溃引起主线程崩溃：[1](http://codingdict.com/questions/121569)  [2](https://blog.csdn.net/zhuod/article/details/58165412)  
+- [SingleLiveEvent](https://blog.csdn.net/bzb123321/article/details/98210342)  
+- [主线程Looper不会卡死](https://www.jianshu.com/p/06ba04884558)  
 
 ## Android优化
 - [优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
 - [优化目录](https://www.jianshu.com/p/03358cc6030a)  
 - [优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)  
+- [简化版](https://blog.csdn.net/ddnosh/article/details/107921830)  
+- 启动优化：[1](https://zhuanlan.zhihu.com/p/158683369)  [2](https://github.com/NoEndToLF/AppStartFaster)  
 - [Android Profiler](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  
 - [Parcelable简化](https://blog.csdn.net/u013265344/article/details/87979948)  
-
-## 项目中遇到的难点
-- []()  
+- [图片CDN](https://blog.csdn.net/wuchen092832/article/details/107550380)  
 
 # Java
 ## Java基础
 - [反射](https://blog.csdn.net/ddnosh/article/details/100042841)  
 - [new instance、new](https://blog.csdn.net/qq_21071965/article/details/55666838)  
+- [用户态、内核态](https://blog.csdn.net/qq_39823627/article/details/78736650)  
 - [动态编译，静态编译](https://www.jianshu.com/p/781987c1db8a)  
 - [多态机制](https://blog.csdn.net/github_37130188/article/details/89931885)  
 - [自定义类加载器、双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)  
+- [类加载顺序](https://blog.csdn.net/u014745069/article/details/82655339)  
 - [equals()、==](https://blog.csdn.net/sunshinegirl168660/article/details/81333562)  
 - [String类中的equals](https://blog.csdn.net/qq_25827845/article/details/53868815)   
 - [String str = new String("abc")](https://blog.csdn.net/qq_36470686/article/details/83444483)  
 - [匿名内部类](https://www.cnblogs.com/longesang/p/11243482.html)  
 - [HashCode](https://www.cnblogs.com/dolphin0520/p/3681042.html)  
 - [Object](https://blog.csdn.net/qq_30264689/article/details/81903031)  
-- [final](https://www.cnblogs.com/huiyuantang/p/5422317.html)  
-- [final: 引用不能变，还是引用的对象不能变](https://blog.csdn.net/u013781343/article/details/80548378)  
+- final：[1](https://www.cnblogs.com/huiyuantang/p/5422317.html)  [2](https://blog.csdn.net/u013781343/article/details/80548378)  
 - [static](https://www.cnblogs.com/dolphin0520/p/3799052.html)  
 - [成员变量存在堆中，局部变量存在栈](https://blog.csdn.net/chenzuen113113/article/details/80929617)  
 - [数组扩容方式](https://blog.csdn.net/wt122694/article/details/81173128)  
 - [阻塞队列、非阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)  
 - [双端队列Deque](https://blog.csdn.net/l540675759/article/details/62893335)  
 - [Exception、Error](https://blog.csdn.net/weixin_42124070/article/details/80833629)   
-- [类加载顺序](https://blog.csdn.net/u014745069/article/details/82655339)  
 - [传参、传引用](https://blog.csdn.net/YiZhiCXY/article/details/52644755)  
+- [Runnable、Callable、Future](https://www.cnblogs.com/guanjunhui/p/10312748.html)  
 
 ## Java进阶
 - [IOC、动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
@@ -164,6 +177,7 @@
 - [中文编码](https://blog.csdn.net/anita9999/article/details/79642152)  
 - [泛型](https://blog.csdn.net/shinecjj/article/details/52075499)  
 - [Hook](https://blog.csdn.net/limaofang/article/details/102782555)  
+- LRU算法：[1](https://www.cnblogs.com/wyq178/p/9976815.html)  [2](https://www.jianshu.com/p/d533d8a66795)  
 
 ## Java优化
 - [内存抖动](https://www.jianshu.com/p/dde9f68409bd)  
@@ -190,6 +204,7 @@
 - [HashMap、Hashtable、ConcurrentHashMap](https://blog.csdn.net/caisongcheng_good/article/details/79489852)  
 - [HashMap、SparseArray](https://blog.csdn.net/qwer123qwerz/article/details/79345524)  
 - [ConcurrentHashMap实现原理](https://blog.csdn.net/dingji_ping/article/details/51005799)  
+- [ConcurrentHashMap优化](https://blog.csdn.net/diaonv9164/article/details/101460859)  
 - [LinkedHashMap](https://www.cnblogs.com/xiaoxi/p/6170590.html)  
 - [WeakHashMap的弱键回收机制](https://blog.csdn.net/u014294681/article/details/86522487)  
 - [ArrayList](https://blog.csdn.net/weixin_36378917/article/details/81812210)  
@@ -203,26 +218,21 @@
 - [List去重](https://www.cnblogs.com/itzyz/p/12176122.html)  
 
 ## Java线程、多线程、线程池、并发
-- [原子性、可见性、有序性](https://blog.csdn.net/u013412772/article/details/80109727)  
-- [通过单例理解原子性、有序性](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
+- 原子性、可见性、有序性：[1](https://blog.csdn.net/u013412772/article/details/80109727)  [2](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
 - [sleep、wait、yield、join](https://www.cnblogs.com/huajiezh/p/5868681.html)  
-- [ThreadLocal原理](https://blog.csdn.net/dakaniu/article/details/80829079)  
-- [ThreadLocal、Volatile、Synchronized、Atomic](https://blog.csdn.net/u010687392/article/details/50549236)  
-- [Synchronized](https://www.jianshu.com/p/d53bf830fa09)  
-- [Synchronized、Lock](https://blog.csdn.net/wu1226419614/article/details/73740899)  
-- [Lock、Condition](https://blog.csdn.net/cowbin2012/article/details/103443626)  
-- [并发和并行](https://www.cnblogs.com/xc-chejj/p/10813692.html)  
-- [并发合集](https://www.cnblogs.com/web424/p/7975581.html)  
-- [多线程1](https://www.cnblogs.com/dafanjoy/p/10020225.html)  
-- [多线程2](https://www.cnblogs.com/wxd0108/p/5479442.html)  
-- [多线程、高并发](https://www.jb51.net/article/160125.htm)  
-- [进程和线程的区别](https://www.zhihu.com/question/25532384)  
-- [进程、线程、协程](https://blog.csdn.net/daaikuaichuan/article/details/82951084)  
-- [线程的同步、锁、死锁](https://blog.csdn.net/qq_36186690/article/details/82940620) 
+- ThreadLocal、Volatile、Synchronized、Atomic、Lock：[1](https://blog.csdn.net/u010687392/article/details/50549236)  [2](https://blog.csdn.net/dakaniu/article/details/80829079)  [3](https://blog.csdn.net/wu1226419614/article/details/73740899)  [4](https://www.jianshu.com/p/d53bf830fa09)  [5](https://blog.csdn.net/cowbin2012/article/details/103443626)  
+- 进程、线程、协程：[1](https://blog.csdn.net/daaikuaichuan/article/details/82951084)  [2](https://www.zhihu.com/question/25532384)  
+- 并发和并行：[1](https://www.cnblogs.com/xc-chejj/p/10813692.html)  [2](https://www.cnblogs.com/web424/p/7975581.html)  
+- 多线程：[1](https://www.cnblogs.com/dafanjoy/p/10020225.html)  [2](https://www.cnblogs.com/wxd0108/p/5479442.html)  [3](https://www.jb51.net/article/160125.htm)  
+- [线程的同步、锁、死锁](https://blog.csdn.net/qq_36186690/article/details/82940620)  
+- [CAS原子操作](https://www.cnblogs.com/lys-lyy/p/11037985.html)  
+- [进程切换、线程切换](https://blog.csdn.net/github_37382319/article/details/97273713)  
+- [进程间通信同步问题](https://blog.csdn.net/zy_style/article/details/53913795)  
 - [多线程读写文件](https://blog.csdn.net/qq_34028539/article/details/80563649)  
 - [Runnable、Callable](https://www.cnblogs.com/kaituorensheng/p/9502968.html)  
 - [管程](https://blog.csdn.net/pizicai007/article/details/88723854)  
 - [Thread: start、run](https://blog.csdn.net/woshizisezise/article/details/79938915)  
+- 线程交替打印：[1](https://www.cnblogs.com/yanyapan/p/12915130.html)  [2](https://abelyang.blog.csdn.net/article/details/110926170)  
 
 ## JVM
 - [程序编译和运行的过程](https://www.cnblogs.com/qiumingcheng/p/5398610.html)  
@@ -251,6 +261,7 @@
 - [LiveData](https://blog.csdn.net/Kongou/article/details/82798451)  
 - [Glide](https://www.jianshu.com/p/9d8aeaa5a329)  
 - [Glide绑定生命周期](https://www.jianshu.com/p/cdebe33df7a0)  
+- [Glide优势与特点](https://blog.csdn.net/u013240038/article/details/51474900)  
 - [RxJava](https://www.jianshu.com/p/695f780436dd)  
 - [Retrofit2](https://blog.csdn.net/hesong1120/article/details/78775145)  
 - [LruCache](https://blog.csdn.net/u012943767/article/details/51897259)  
@@ -289,3 +300,6 @@
 
 ## 加密
 - [浅谈对称加密与非对称加密](https://zhuanlan.zhihu.com/p/49494990)  
+
+# 行业业务相关
+>>>>>>

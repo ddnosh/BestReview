@@ -127,7 +127,7 @@
 - [进程保活](https://www.jianshu.com/p/f5936dabad5a)  
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
 - 混合开发：[1](https://www.jianshu.com/p/8e99b4aed464)  [2](https://blog.csdn.net/androidstarjack/article/details/102694022)  
-- [JetPack](https://www.jianshu.com/p/53f02494c926)  
+- JetPack：[1](https://www.jianshu.com/p/53f02494c926)  [2](https://github.com/zhiwei1990/android-jetpack-demo)  
 - [ANR](https://blog.csdn.net/xzytl60937234/article/details/82493470)  
 - Crash: [1](https://www.jianshu.com/p/76bff59b5418)  [2](https://github.com/zhaofawu/DefenseCrash)  [3](https://github.com/android-notes/Cockroach)  
 - 防止后台线程崩溃引起主线程崩溃：[1](http://codingdict.com/questions/121569)  [2](https://blog.csdn.net/zhuod/article/details/58165412)  
@@ -144,6 +144,7 @@
 - [SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  
 - [Parcelable简化](https://blog.csdn.net/u013265344/article/details/87979948)  
 - [图片CDN](https://blog.csdn.net/wuchen092832/article/details/107550380)  
+- [多dex](https://github.com/1qu212/PluginActivity_MultiDexDemo)  
 
 # Java
 ## Java基础
@@ -169,6 +170,7 @@
 - [Exception、Error](https://blog.csdn.net/weixin_42124070/article/details/80833629)   
 - [传参、传引用](https://blog.csdn.net/YiZhiCXY/article/details/52644755)  
 - [Runnable、Callable、Future](https://www.cnblogs.com/guanjunhui/p/10312748.html)  
+- [get、set和public的区别](https://www.cnblogs.com/cpm320/archive/2012/09/14/2684600.html)  
 
 ## Java进阶
 - [IOC、动态代理](https://blog.csdn.net/chentao866/article/details/71191005)  
@@ -180,8 +182,7 @@
 - LRU算法：[1](https://www.cnblogs.com/wyq178/p/9976815.html)  [2](https://www.jianshu.com/p/d533d8a66795)  
 
 ## Java优化
-- [内存抖动](https://www.jianshu.com/p/dde9f68409bd)  
-- [解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)  
+- 内存抖动：[1](https://www.jianshu.com/p/dde9f68409bd)  [2](https://blog.csdn.net/wanghao200906/article/details/79311288)  
 - [内存碎片](https://blog.csdn.net/csdn_kou/article/details/82891141)  
 - [StringBuilder和String](https://blog.csdn.net/qq_31209193/article/details/81092958)  
 - [subString](https://blog.csdn.net/itmyhome1990/article/details/77647800)  
@@ -198,6 +199,7 @@
 - [模板](https://blog.csdn.net/ddnosh/article/details/99736911)  
 
 ## Java数据结构
+- [list、set、map](https://www.cnblogs.com/yangliguo/p/7476788.html)  
 - [HashMap](https://www.cnblogs.com/chengxiao/p/6059914.html)  
 - [HashMap拓展](https://www.jianshu.com/p/25ddc19839b3)  
 - [HashMap、HashTable](https://blog.csdn.net/skygm/article/details/88666118)  
@@ -210,12 +212,11 @@
 - [ArrayList](https://blog.csdn.net/weixin_36378917/article/details/81812210)  
 - [LinkedList](https://blog.csdn.net/yt_19940616/article/details/90182308)  
 - [ArrayList和LinkedList时间复杂度](https://blog.csdn.net/u013030086/article/details/84967258)  
-- [list、set、map](https://www.cnblogs.com/yangliguo/p/7476788.html)  
-- [单链表反转](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
 - [深拷贝、浅拷贝](https://www.cnblogs.com/xinyueBlog/p/6179096.html)  
 - [二叉树](https://www.jianshu.com/p/8619a89077a8)  
 - [链表](https://blog.csdn.net/weixin_39843989/article/details/101543108)  
 - [List去重](https://www.cnblogs.com/itzyz/p/12176122.html)  
+- [单链表反转](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
 
 ## Java线程、多线程、线程池、并发
 - 原子性、可见性、有序性：[1](https://blog.csdn.net/u013412772/article/details/80109727)  [2](https://mp.weixin.qq.com/s/zn8e7nKUPXq4G4CzyE7rPA)  
@@ -239,7 +240,6 @@
 - [内存区域](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)  
 - [垃圾回收](https://blog.csdn.net/qq_34337272/article/details/82177383)  
 - [GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法](https://blog.csdn.net/lovexiaoqiqi/article/details/81737213)  
-- [GC Root](https://www.jianshu.com/p/635f3185bbc4)  
 - [Javassist](https://www.cnblogs.com/rickiyang/p/11336268.html)  
 - [Java跨平台](https://blog.csdn.net/banjing_1993/article/details/82349013)  
 
@@ -280,8 +280,7 @@
 # 算法
 ## 查找
 - [有了这个开源项目，再也不怕去BAT和字节跳动面试考算法了](https://github.com/algorithm-visualizer/algorithm-visualizer)  
-- [二分查找1](https://www.jianshu.com/p/0f823fbd4d20)  
-- [二分查找2](https://blog.csdn.net/wtzhm/article/details/87346375)  
+- 二分查找：[1](https://www.jianshu.com/p/0f823fbd4d20)  [2](https://blog.csdn.net/wtzhm/article/details/87346375)  
 - [visualgo](https://visualgo.net/en)  
 - [二叉树、深度优先、广度优先遍历](https://blog.csdn.net/XTAOTWO/article/details/83625586)  
 - [遍历ViewGroup找出所有子View](https://blog.csdn.net/l707941510/article/details/82912526)  

@@ -226,7 +226,7 @@
 - 并发和并行：[1](https://www.cnblogs.com/xc-chejj/p/10813692.html)  [2](https://www.cnblogs.com/web424/p/7975581.html)  
 - 多线程：[1](https://www.cnblogs.com/dafanjoy/p/10020225.html)  [2](https://www.cnblogs.com/wxd0108/p/5479442.html)  [3](https://www.jb51.net/article/160125.htm)  
 - [线程的同步、锁、死锁](https://blog.csdn.net/qq_36186690/article/details/82940620)  
-- [CAS原子操作](https://www.cnblogs.com/lys-lyy/p/11037985.html)  
+- CAS：无锁实现并发：[1](https://www.cnblogs.com/lys-lyy/p/11037985.html)  [2](https://www.jianshu.com/p/ab2c8fce878b)  
 - [CopyOnWrite](https://blog.csdn.net/xmzyjr123/article/details/86600122)  
 - [自旋锁](https://www.jianshu.com/p/9d3660ad4358)  
 - [进程切换、线程切换](https://blog.csdn.net/github_37382319/article/details/97273713)  

@@ -83,6 +83,7 @@
 - [Jvm、Dalvik、Art](https://www.jianshu.com/p/59d98244fb52)  
 - [compileSdkVersion，targetSdkVersion、minSdkVersion](https://blog.csdn.net/u012345683/article/details/81286989)  
 - [onSaveInstanceState、onRestoreInstanceState](https://blog.csdn.net/adminlxb89/article/details/81365082)  
+- [LaunchMode](https://blog.csdn.net/sinat_14849739/article/details/78072401)  
 - [Serializable、Parcelable](https://blog.csdn.net/wangchunlei123/article/details/51345130)  
 - [Handler](https://blog.csdn.net/luoyingxing/article/details/86500542)  
 - [Message, MessageQueue, Handle、Looper](https://www.cnblogs.com/lao-liang/p/5073257.html)  

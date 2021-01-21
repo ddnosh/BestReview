@@ -237,6 +237,7 @@
 - [管程](https://blog.csdn.net/pizicai007/article/details/88723854)  
 - [Thread: start、run](https://blog.csdn.net/woshizisezise/article/details/79938915)  
 - 线程交替打印：[1](https://www.cnblogs.com/yanyapan/p/12915130.html)  [2](https://abelyang.blog.csdn.net/article/details/110926170)  
+- [线程池](https://zhuhuix.blog.csdn.net/article/details/106014784)  
 
 ## JVM
 - [程序编译和运行的过程](https://www.cnblogs.com/qiumingcheng/p/5398610.html)  

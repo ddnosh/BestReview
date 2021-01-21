@@ -274,6 +274,7 @@
 - [ARouter](https://blog.csdn.net/jiang19921002/article/details/81777406)  
 - [DroidPlugin](https://blog.csdn.net/u013210620/article/details/54692417)  
 - [LeakCanary](https://www.jianshu.com/p/7d6946a1bbb6)  
+- [subsampling scale image view](https://juejin.cn/post/6844903910088392712)  
 
 # Kotlin
 - [优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  

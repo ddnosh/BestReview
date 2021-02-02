@@ -57,11 +57,8 @@
 - [服务器](#服务器)
 
 - [项目](#Project)  
-  - [App: 性能优化](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
-  - [优化：Awesome系列](https://github.com/JsonChao/Awesome-Android-Performance)  
-  - [插件化：ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
-  - [组件化：LifeHelper](https://github.com/yangchong211/LifeHelper)  
-  - [Crash：Cockroach](https://github.com/android-notes/Cockroach)  
+  - [GitHub-Open-Source-Project](https://github.com/ddnosh/GitHub-Open-Source-Project)  
+  - [GitHub-Architecture-And-Skills](https://github.com/ddnosh/GitHub-Architecture-And-Skills)  
 
 # 计算机系统
 ## 计算机网络
@@ -75,7 +72,9 @@
 - [TCP三次握手](https://www.cnblogs.com/zhuzhenwei918/p/7465467.html)  
 
 ## 操作系统
+>>>>>>
 ## 数据库
+>>>>>>
 
 # Android
 ## Android基础
@@ -123,8 +122,8 @@
 - [Binder](https://blog.csdn.net/augfun/article/details/82343249)  
 - [APT](https://www.jianshu.com/p/7af58e8e3e18)  
 - [AOP](https://juejin.im/post/5bfcb146e51d451f6e52b3c8)  
-- [插件化开发](https://blog.csdn.net/u013210620/article/details/54692417)  
-- [组件化](https://blog.csdn.net/ddnosh/article/details/79075093)  
+- 插件化: [1](https://blog.csdn.net/u013210620/article/details/54692417)  [2](https://github.com/iReaderAndroid/ZeusPlugin)  
+- 组件化: [1](https://blog.csdn.net/ddnosh/article/details/79075093)  [2](https://github.com/yangchong211/LifeHelper)  
 - [进程保活](https://www.jianshu.com/p/f5936dabad5a)  
 - [SDK](https://blog.csdn.net/ddnosh/article/details/100109427)  
 - 混合开发：[1](https://www.jianshu.com/p/8e99b4aed464)  [2](https://blog.csdn.net/androidstarjack/article/details/102694022)  
@@ -136,10 +135,12 @@
 - [主线程Looper不会卡死](https://www.jianshu.com/p/06ba04884558)  
 
 ## Android优化
+- [优化简化版](https://blog.csdn.net/ddnosh/article/details/107921830)  
 - [优化总结](https://www.jianshu.com/p/d71b51a0e29f)  
 - [优化目录](https://www.jianshu.com/p/03358cc6030a)  
 - [优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)  
-- [简化版](https://blog.csdn.net/ddnosh/article/details/107921830)  
+- [深度探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)  
+- [优化App实例](https://github.com/JsonChao/Awesome-WanAndroid/tree/master)  
 - 启动优化：[1](https://zhuanlan.zhihu.com/p/158683369)  [2](https://github.com/NoEndToLF/AppStartFaster)  
 - [Android Profiler](https://blog.csdn.net/Double2hao/article/details/78784758)  
 - [SharedPreference](https://blog.csdn.net/qq1263292336/article/details/78495619)  

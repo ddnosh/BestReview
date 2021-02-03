@@ -215,7 +215,7 @@
 - [LinkedList](https://blog.csdn.net/yt_19940616/article/details/90182308)  
 - [ArrayList和LinkedList时间复杂度](https://blog.csdn.net/u013030086/article/details/84967258)  
 - [深拷贝、浅拷贝](https://www.cnblogs.com/xinyueBlog/p/6179096.html)  
-- [二叉树](https://www.jianshu.com/p/8619a89077a8)  
+- [二叉树、平衡二叉树、红黑树、B树、B+树与B*树](https://www.jianshu.com/p/b597aa97c9de)  
 - [链表](https://blog.csdn.net/weixin_39843989/article/details/101543108)  
 - [List去重](https://www.cnblogs.com/itzyz/p/12176122.html)  
 - [单链表反转](https://blog.csdn.net/acquaintanceship/article/details/73011169)  
@@ -280,6 +280,7 @@
 - [优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
 - [入门](https://www.jianshu.com/p/bb53cba6c8f4)  
 - [深入理解](https://chiclaim.blog.csdn.net/article/details/85575213)  
+- [扩展函数](https://www.jianshu.com/p/e056a59cb7f1)  
 
 # 算法
 ## 查找

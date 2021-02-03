@@ -267,7 +267,7 @@
 - Glide：[1](https://www.jianshu.com/p/9d8aeaa5a329)  [2](https://www.jianshu.com/p/cdebe33df7a0)  [3](https://blog.csdn.net/u013240038/article/details/51474900)  
 - [RxJava](https://www.jianshu.com/p/695f780436dd)  
 - [Retrofit2](https://blog.csdn.net/hesong1120/article/details/78775145)  
-- [LruCache](https://blog.csdn.net/u012943767/article/details/51897259)  
+- [LruCache](https://www.cnblogs.com/z-x-y/articles/10004758.html)  
 - [OkHttp](https://www.jianshu.com/p/39a7c97d2004)  
 - [ButterKnife](https://www.jianshu.com/p/b82ef05f3e8a)  
 - [GreenDAO](https://www.jianshu.com/p/0d3cbe6278fb)  

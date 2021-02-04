@@ -98,6 +98,7 @@
 - Protocol Buffer：[1](https://www.jianshu.com/p/6dd2fd0362b8)  [2](https://www.jianshu.com/p/1538bf85dad1)  
 - [Android App进程中最少有几个线程](https://blog.csdn.net/sunxiangyuan12/article/details/80118342)  
 - WebView及缓存：[1](https://www.jianshu.com/p/5e7075f4875f)  [2](https://blog.csdn.net/qq_33539839/article/details/108866646)  
+- [生命周期](https://www.jianshu.com/p/831f40c226ec)  
 
 ## Android进阶
 - [系统显示原理](https://www.jianshu.com/p/a978a6250f9e)  
@@ -261,7 +262,7 @@
 ## 开源框架
 - [AsyncTask](https://www.jianshu.com/p/37502bbbb25a)
 - [EventBus](https://blog.csdn.net/michael_yt/article/details/52014022)  
-- [LiveData](https://blog.csdn.net/Kongou/article/details/82798451)  
+- [LiveData](https://www.jianshu.com/p/0d9ba72ed1be)  
 - Glide：[1](https://www.jianshu.com/p/9d8aeaa5a329)  [2](https://www.jianshu.com/p/cdebe33df7a0)  [3](https://blog.csdn.net/u013240038/article/details/51474900)  
 - [RxJava](https://www.jianshu.com/p/695f780436dd)  
 - [Retrofit2](https://blog.csdn.net/hesong1120/article/details/78775145)  

@@ -103,7 +103,7 @@
 ## Android进阶
 - [系统显示原理](https://www.jianshu.com/p/a978a6250f9e)  
 - [自定义View](https://www.cnblogs.com/xww0826/p/10359502.html)  
-- [事件分发](https://blog.csdn.net/zhangjin12312/article/details/78340998)  
+- 事件分发  [1](https://blog.csdn.net/zhangjin12312/article/details/78340998)  [2](https://blog.csdn.net/qq475703980/article/details/92385368)  
 - [热更新原理](https://www.jianshu.com/p/8dcf750acdfe)  
 - [图片三级缓存](https://blog.csdn.net/languobeibei/article/details/73176506)  
 - [APK安装流程](https://www.cnblogs.com/neo-java/p/7117482.html)  
@@ -279,6 +279,7 @@
 - [优缺点](https://www.cnblogs.com/bluestorm/p/8965649.html)  
 - [入门](https://www.jianshu.com/p/bb53cba6c8f4)  
 - [深入理解](https://chiclaim.blog.csdn.net/article/details/85575213)  
+- [面试](https://www.jianshu.com/p/45866c8415c8)  
 - [扩展函数](https://www.jianshu.com/p/e056a59cb7f1)  
 
 # 算法
